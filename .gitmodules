@@ -1,6 +1,3 @@
-[submodule "videollava"]
-	path = experiments/videollava_oops_benchmark/videollava
-	url = https://github.com/PKU-YuanGroup/Video-LLaVA
 [submodule "experiments/videollava_oops_benchmark/videollava"]
 	path = experiments/videollava_oops_benchmark/videollava
 	url = https://github.com/PKU-YuanGroup/Video-LLaVA
