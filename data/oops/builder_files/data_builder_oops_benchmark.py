@@ -70,7 +70,7 @@ if __name__ == "__main__":
             key_err+=1
         oops_val[video] = data
 
-    save("oops_benchmark_detection.json",oops_val)
+    save("../oops_benchmark_val.json",oops_val)
     print(len(oops_val))
     print(f"valset: fail_count {failure_count}")
     print(f"valset: normal_count {normal_count}")
