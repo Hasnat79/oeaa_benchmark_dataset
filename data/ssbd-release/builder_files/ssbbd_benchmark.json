@@ -1,0 +1,162 @@
+{
+    "NaN": {
+        "URL": NaN,
+        "Duration": NaN,
+        "Behaviour_time_instant": "(StartTime -  EndTime )"
+    },
+    "v_ArmFlapping_01": {
+        "URL": "http://www.youtube.com/watch?v=I7fdv1q9-m8",
+        "Duration": 45.0,
+        "Behaviour_time_instant": "00:18 - 00:24"
+    },
+    "v_ArmFlapping_02": {
+        "URL": "http://www.youtube.com/watch?v=hKf-IwHM6TI",
+        "Duration": 51.0,
+        "Behaviour_time_instant": "00:10 - 00:20"
+    },
+    "v_ArmFlapping_03": {
+        "URL": "http://www.youtube.com/watch?v=Z2kfvB4lv7A",
+        "Duration": 61.0,
+        "Behaviour_time_instant": "00:20 - 00:25"
+    },
+    "v_ArmFlapping_04": {
+        "URL": "http://www.youtube.com/watch?v=SOc13pnf-Dc",
+        "Duration": 199.0,
+        "Behaviour_time_instant": "01:00 - 01:10"
+    },
+    "v_ArmFlapping_05": {
+        "URL": "http://www.youtube.com/watch?v=8vFUIFEfRpA",
+        "Duration": 215.0,
+        "Behaviour_time_instant": "00:02 - 00:14"
+    },
+    "v_ArmFlapping_06": {
+        "URL": "http://www.youtube.com/watch?v=ehlLfMossUY",
+        "Duration": 105.0,
+        "Behaviour_time_instant": "00:27 - 00:30"
+    },
+    "v_ArmFlapping_07": {
+        "URL": "http://www.youtube.com/watch?v=T9rbit_oiJA",
+        "Duration": 46.0,
+        "Behaviour_time_instant": "00:04 - 00:10"
+    },
+    "v_ArmFlapping_08": {
+        "URL": "http://www.youtube.com/watch?v=5Ps9iE8mPqY",
+        "Duration": 254.0,
+        "Behaviour_time_instant": "00:18 - 00:22"
+    },
+    "v_ArmFlapping_09": {
+        "URL": "http://www.youtube.com/watch?v=C_O8vyrSt0Q",
+        "Duration": 168.0,
+        "Behaviour_time_instant": "00:05 - 00:15"
+    },
+    "v_ArmFlapping_10": {
+        "URL": "http://www.youtube.com/watch?v=iDuAugAykcc",
+        "Duration": 134.0,
+        "Behaviour_time_instant": "01:08 - 01:25"
+    },
+    "v_ArmFlapping_11": {
+        "URL": "http://www.youtube.com/watch?v=WRGUUOZ5_wA",
+        "Duration": 138.0,
+        "Behaviour_time_instant": "01:00 - 01:07"
+    },
+    "v_ArmFlapping_12": {
+        "URL": "http://www.youtube.com/watch?v=mnBWOI4LuKw",
+        "Duration": 166.0,
+        "Behaviour_time_instant": "02:11 - 02:35"
+    },
+    "v_ArmFlapping_13": {
+        "URL": "http://www.youtube.com/watch?v=3Oh_Lmehb6c",
+        "Duration": 86.0,
+        "Behaviour_time_instant": "00:40 - 00:50"
+    },
+    "v_ArmFlapping_14": {
+        "URL": "http://www.youtube.com/watch?v=pz1nIbRWb2M",
+        "Duration": 56.0,
+        "Behaviour_time_instant": "00:03 - 00:07"
+    },
+    "v_ArmFlapping_15": {
+        "URL": "http://www.youtube.com/watch?v=nGoMpqcYcOg",
+        "Duration": 38.0,
+        "Behaviour_time_instant": "00:17 - 00:23"
+    },
+    "v_ArmFlapping_16": {
+        "URL": "http://www.youtube.com/watch?v=5sgfS0SSh8o",
+        "Duration": 53.0,
+        "Behaviour_time_instant": "00:32 - 00:46"
+    },
+    "v_ArmFlapping_17": {
+        "URL": "http://www.youtube.com/watch?v=vtVnrV_jog0",
+        "Duration": 45.0,
+        "Behaviour_time_instant": "00:02 - 00:10"
+    },
+    "v_ArmFlapping_18": {
+        "URL": "http://www.youtube.com/watch?v=JM8BHjJTSFM",
+        "Duration": 88.0,
+        "Behaviour_time_instant": "00:03 - 00:08"
+    },
+    "v_ArmFlapping_19": {
+        "URL": "http://www.youtube.com/watch?v=1vRklwIBC28",
+        "Duration": 260.0,
+        "Behaviour_time_instant": "02:55 - 03:10"
+    },
+    "v_ArmFlapping_20": {
+        "URL": "http://www.youtube.com/watch?v=MOt-6FAEP_g",
+        "Duration": 110.0,
+        "Behaviour_time_instant": "01:34 - 01:38"
+    },
+    "v_ArmFlapping_21": {
+        "URL": "http://www.youtube.com/watch?v=AQ-jO6O5gow",
+        "Duration": 22.0,
+        "Behaviour_time_instant": "00:12 - 00:16"
+    },
+    "v_ArmFlapping_22": {
+        "URL": "http://www.youtube.com/watch?v=UxpQpWzhOx0",
+        "Duration": 122.0,
+        "Behaviour_time_instant": "00:02 - 00:06"
+    },
+    "v_ArmFlapping_23": {
+        "URL": "http://www.youtube.com/watch?v=xeKKMkVgNPU",
+        "Duration": 106.0,
+        "Behaviour_time_instant": "00:49 - 00:57"
+    },
+    "v_ArmFlapping_24": {
+        "URL": "http://www.youtube.com/watch?v=AGmXuSY4gx0",
+        "Duration": 41.0,
+        "Behaviour_time_instant": "00:10 - 00:15"
+    },
+    "v_ArmFlapping_25": {
+        "URL": "http://www.youtube.com/watch?v=I2rfPPinMHk",
+        "Duration": 23.0,
+        "Behaviour_time_instant": "00:04 - 00:08"
+    },
+    "v_HeadBanging_01": {
+        "URL": "http://www.youtube.com/watch?v=yCaymsrcNwA",
+        "Duration": 30.0,
+        "Behaviour_time_instant": "00:01 - 00:04"
+    },
+    "v_HeadBanging_02": {
+        "URL": "http://www.youtube.com/watch?v=a5BuwkqtIa0",
+        "Duration": 56.0,
+        "Behaviour_time_instant": "00:04 - 00:09"
+    },
+    "v_HeadBanging_03": {
+        "URL": "http://www.youtube.com/watch?v=k9MJ4pDQQ74",
+        "Duration": 15.0,
+        "Behaviour_time_instant": "00:06 - 00:14"
+    },
+    "v_HeadBanging_04": {
+        "URL": "http://www.youtube.com/watch?v=pzPhXbGEpSo",
+        "Duration": 52.0,
+        "Behaviour_time_instant": "00:16 - 00:30"
+    },
+    "v_HeadBanging_05": {
+        "URL": "http://www.youtube.com/watch?v=Lex0gIMd73g",
+        "Duration": 19.0,
+        "Behaviour_time_instant": "00:03 - 00:17"
+    },
+    "v_HeadBanging_06": {
+        "URL": "http://www.youtube.com/watch?v=WLtorzPESbc",
+        "Duration": 23.0,
+        "Behaviour_time_instant": "00:10 - 00:19"
+    }
+}
