@@ -10,6 +10,9 @@ from transformers import pipeline
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
+import torch
+from transformers import BertTokenizer, BertModel
+from tqdm import tqdm
 
 # openai.api_key = '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'
 def auc_roc_curve(filtered_res):
@@ -145,10 +148,34 @@ def cal_cider_score(reference_tokens, candidate_tokens):
 
     return cider_score
 
+def cal_bert_score(reference, candidate, tokenizer, model):
+    
+    #encoding the reference and candidate
+    reference_encoding = tokenizer(reference, return_tensors='pt', padding=True, truncation=True)
+    candidate_encoding = tokenizer(candidate, return_tensors='pt', padding=True, truncation=True)
+
+    #passing the reference and candidate through the model
+    with torch.no_grad():
+        reference_output = model(**reference_encoding)
+        candidate_output = model(**candidate_encoding)
+    
+    # getting the hidden states from the model
+    candidate_hidden_states = candidate_output.last_hidden_state.mean(dim=1).detach().numpy()
+    reference_hidden_states = reference_output.last_hidden_state.mean(dim=1).detach().numpy()
+
+    #similarity score
+    similarity = np.dot(reference_hidden_states, candidate_hidden_states.T)/(np.linalg.norm(reference_hidden_states)*np.linalg.norm(candidate_hidden_states))
+
+    return similarity[0][0]
+
+def cal_meteor_score(reference, candidate):
+    # we will calculate meteor score of two reference and canditate
+    
+
 
 merged_res = files_merger("./")
 # merged_res = load_json("../p2_merged_results.json")
-print(len(merged_res)) #4170
+# print(len(merged_res)) #4170
 kk ={}
 c=0
 for k,v in merged_res.items():
@@ -163,23 +190,23 @@ for k,v in merged_res.items():
         # print(v['videollva_generation_1'])
         c+=1
 
-write_json("./need_manual_labeling/need_manual_labeling_files.json",kk)
+# write_json("./need_manual_labeling/need_manual_labeling_files.json",kk)
 for k in kk:
     del merged_res[k]
 
-print(f"yes/no missing instances count: {c}") #400
-total_failure = sum(1 for entry_id, entry in merged_res.items() if entry['failure'] == 1 )
-print(f"failure: {total_failure}/{len(merged_res)}")
-print(f"normal: {len(merged_res)-total_failure}")
-# filtered_res = filter_results(merged_res) # total videos after filtering: 4317
-auc_roc_curve(merged_res)
-calculate_precision_recall_f1(merged_res)
+# print(f"yes/no missing instances count: {c}") #400
+# total_failure = sum(1 for entry_id, entry in merged_res.items() if entry['failure'] == 1 )
+# print(f"failure: {total_failure}/{len(merged_res)}")
+# print(f"normal: {len(merged_res)-total_failure}")
+# # filtered_res = filter_results(merged_res) # total videos after filtering: 4317
+# auc_roc_curve(merged_res)
+# calculate_precision_recall_f1(merged_res)
 
 #cider
-cider_avg = 0
+cider_scores= []
 aa = sum([1 for k,v in merged_res.items() if 'goal_1' in v])
 print(aa) #2892 faulure instances with caption
-for k,v in merged_res.items():
+for k,v in tqdm(merged_res.items()):
     if 'goal_1' in v:
         reference = (v['goal_1']+v['wentwrong_1']).split()
         # candidate_tokens = v['videollava_generation_1'].split()
@@ -187,12 +214,25 @@ for k,v in merged_res.items():
         # only narration is used to calculate    
         candidate_tokens = v['videollava_generation_1'].split("Answer with Explanation: ")[0].split()
         
-        cider_avg +=cal_cider_score(reference, candidate_tokens)
+        cider_scores.append(cal_cider_score(reference, candidate_tokens))
 
 
-cider_avg = cider_avg/aa
-print(f"avg cider score: {cider_avg}")
+print("average cider score:", np.mean(cider_scores))
 
+
+##bert_score
+# load pre-trained bert model and tokenizer
+tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
+model = BertModel.from_pretrained('bert-base-uncased')
+similarity_scores =[]
+for k,v in tqdm(merged_res.items()):
+    if 'goal_1' in v:
+        
+        reference = [(v['goal_1']+v['wentwrong_1'])]
+        candidate = [v['videollava_generation_1'].split("Answer with Explanation: ")[0]]
+        similarity_scores.append(cal_bert_score(reference, candidate,tokenizer, model))
+
+print("Average bert score similarity:", np.mean(similarity_scores))
 
 # 4170
 # yes/no missing instances count: 400
@@ -204,3 +244,4 @@ print(f"avg cider score: {cider_avg}")
 # acc: 0.75
 # auc_roc_curve: 0.5034677118327734
 # precision: 0.75, recall: 0.99, f1_score: 0.85, support: None
+# Average bert score similarity: 0.7307192
