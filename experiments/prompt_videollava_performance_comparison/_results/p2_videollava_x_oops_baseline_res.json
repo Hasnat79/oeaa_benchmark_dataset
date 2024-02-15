@@ -1,0 +1,514 @@
+{
+    "The Wheels Are Coming Off! - Throwback Fails (December 2017) _ FailArmy29": {
+        "t": [
+            3.873003
+        ],
+        "duration": 8.625,
+        "path": "The Wheels Are Coming Off! - Throwback Fails (December 2017) _ FailArmy29.mp4",
+        "failure": 1,
+        "wentwrong_1": "The rope bounces too hard and the man falls over.",
+        "goal_1": "A man is jumping on a stretched rope.",
+        "wentwrong_2": "He lost his balance and fell onto the ground.",
+        "goal_2": "A man was balancing on a slack line.",
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a man walking on a rope in a park. He falls off the rope and lands on the ground.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows a man walking on a rope, which is not a common activity in a park.</s>"
+    },
+    "Fails of the Week 4 September 2016 _ FailArmy27": {
+        "t": [
+            2.60905
+        ],
+        "duration": 5.5,
+        "path": "Fails of the Week 4 September 2016 _ FailArmy27.mp4",
+        "failure": 1,
+        "wentwrong_1": "The boy falls onto the stick and hurts himself in the groin.",
+        "goal_1": "A boy tries to use a Pogo stick.",
+        "wentwrong_2": "He ended up hitting the pogo stick into his groin area",
+        "goal_2": "The boy was playing with the pogo stick",
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a young boy playing with a toy in a backyard. He is seen kneeling down and pushing the toy while talking to the camera. The video also shows him playing with a skateboard and a toy in the yard.\n\nAnswer with Explanation: No.</s>"
+    },
+    "Throwback Fails - Jump Around! (March 2018) _ FailArmy22": {
+        "t": [
+            4.512474
+        ],
+        "duration": 9.5,
+        "path": "Throwback Fails - Jump Around! (March 2018) _ FailArmy22.mp4",
+        "failure": 1,
+        "wentwrong_1": "He tripped and fell off his skis and into the dirt.",
+        "goal_1": "A person was trying to ski on dirt.",
+        "wentwrong_2": "He got stuck and ended up rolling down the hill",
+        "goal_2": "The guy was trying to skii down the hill",
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a man skiing down a snowy hill, while another man is seen walking up the hill with a snowboard. The video also shows a man walking down a snowy hill with a snowboard.\n\nAnswer with Explanation: Yes.</s>"
+    },
+    "Throwback Fails - Jump Around! (March 2018) _ FailArmy21": {
+        "t": [
+            2.88849
+        ],
+        "duration": 9.25,
+        "path": "Throwback Fails - Jump Around! (March 2018) _ FailArmy21.mp4",
+        "failure": 1,
+        "wentwrong_1": "He lost control of the scooter and fell",
+        "goal_1": "A man was riding a scooter down a sidewalk and tried to avoid hitting a dog",
+        "wentwrong_2": "The dog got in the way of the man and he fell.",
+        "goal_2": "Just to show the family scootering.",
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a man skateboarding in a park while a dog runs alongside him. The man falls down and the dog walks away.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows a man skateboarding in a park while a dog runs alongside him. The man falls down, and the dog walks away.</s>"
+    },
+    "Throwback Fails - Carriage Carnage (April 2018) _ FailArmy50": {
+        "t": [
+            1.477786
+        ],
+        "duration": 10.375,
+        "path": "Throwback Fails - Carriage Carnage (April 2018) _ FailArmy50.mp4",
+        "failure": 1,
+        "wentwrong_1": "the lady fell down into the grass after going down the hill",
+        "goal_1": "a mom sat on a small cart and went down a small slide",
+        "wentwrong_2": "Fell over and hit face",
+        "goal_2": "Ride down a child's slide",
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a woman and a child playing on a slide in a backyard. The woman is seen lying on the ground, and the child is seen playing with a toy.\n\nAnswer with Explanation: No.</s>"
+    },
+    "It's All Down Hill From Here - Throwback Fails (August 2017)68": {
+        "t": [
+            -1.0
+        ],
+        "duration": 6.125,
+        "path": "It's All Down Hill From Here - Throwback Fails (August 2017)68.mp4",
+        "failure": 0,
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a person riding a bike down a snowy hill, while another person is skiing down the same hill. There are also people standing on the side of the hill watching.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows a person riding a bike down a snowy hill, which is not a common activity.</s>"
+    },
+    "Fails of the Week (March 2017) _ FailArmy14": {
+        "t": [
+            1.002466
+        ],
+        "duration": 19.625,
+        "path": "Fails of the Week (March 2017) _ FailArmy14.mp4",
+        "failure": 1,
+        "wentwrong_1": "girl skiing fast down hill fell",
+        "goal_1": "record person skiing down hall",
+        "wentwrong_2": "She nearly hits a person and then falls in the snow.",
+        "goal_2": "A person is skiing down a snow covered hill.",
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a person snowboarding down a snowy hill, passing by a house and a fence. The person is also seen riding a bike down a snowy path.\n\nAnswer with Explanation: Yes.</s>"
+    },
+    "Don't Be Such a Baby - Kid Fails (September 2018) _ FailArmy25": {
+        "t": [
+            15.420136
+        ],
+        "duration": 15.875,
+        "path": "Don't Be Such a Baby - Kid Fails (September 2018) _ FailArmy25.mp4",
+        "failure": 1,
+        "wentwrong_1": "The little girl wanted to spin but ended up falling down instead.",
+        "goal_1": "The little girl wanted to dance.",
+        "wentwrong_2": "The child spun and then fell down on the floor.",
+        "goal_2": "A child was dancing in the living room.",
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a little girl dancing in a living room. She is wearing a black dress and white socks. She is seen dancing in front of a couch and a chair. She also dances in front of a mirror.\n\nAnswer with Explanation: Yes. The video contains unusual activities as the little girl is seen dancing in front of a mirror, which is not a typical activity for a child.</s>"
+    },
+    "Ninja Fails - Sweep The Leg! (March 2017) _ FailArmy51": {
+        "t": [
+            0.573387
+        ],
+        "duration": 8.25,
+        "path": "Ninja Fails - Sweep The Leg! (March 2017) _ FailArmy51.mp4",
+        "failure": 1,
+        "wentwrong_1": "He hits himself in the head.",
+        "goal_1": "A man practices nunchucks in his bedroom.",
+        "wentwrong_2": "He accidentally hit himself in the cheek, and then the head, with one of them.",
+        "goal_2": "A man was trying to perform a trick with nunchucks.",
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a man practicing martial arts in a gym. He is seen holding a stick and hitting a board with it.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows a man practicing martial arts in a gym. This is not a normal activity that one would expect to see in a gym.</s>"
+    },
+    "FailArmy After Dark - That's Got to Sting (Ep. 6)128": {
+        "t": [
+            1.498735
+        ],
+        "duration": 7.375,
+        "path": "FailArmy After Dark - That's Got to Sting (Ep. 6)128.mp4",
+        "failure": 1,
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a woman lying on the floor and doing sit-ups. There are also other people in the video doing various activities such as yoga, playing with a dog, and sitting on the floor.\n\nAnswer with Explanation: Yes.</s>"
+    },
+    "FailFactory - No Pain, No Gain (Workout Fails)122": {
+        "t": [
+            6.91426
+        ],
+        "duration": 8.0,
+        "path": "FailFactory - No Pain, No Gain (Workout Fails)122.mp4",
+        "failure": 1,
+        "wentwrong_1": "he jumped up and then didnt catch back on and fell",
+        "goal_1": "to do pullups and punch the ceiling while doing so",
+        "wentwrong_2": "man lost his grip and fell onto the ground",
+        "goal_2": "man was trying to do jumping pull ups",
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a man performing various exercises in a gym. He is seen hanging from a bar, doing pull-ups, and jumping on a bar.\n\nAnswer with Explanation: Yes. The video contains unusual activities such as the man hanging from a bar and doing pull-ups, which are not typical exercises that one would do in a gym.</s>"
+    },
+    "FailArmy After Dark - Say It, Don't Spray It (Ep. 7)107": {
+        "t": [
+            -1.0
+        ],
+        "duration": 4.75,
+        "path": "FailArmy After Dark - Say It, Don't Spray It (Ep. 7)107.mp4",
+        "failure": 0,
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a group of people dancing in a ballroom. The dancers are dressed in formal attire and are moving gracefully to the music. The ballroom is decorated with chandeliers and elegant furniture, creating a sophisticated atmosphere.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows a group of people dancing in a ballroom, which is not a typical activity in everyday life.</s>"
+    },
+    "Mom's Going To Be Mad - Throwback Fails (June 2017) _ FailArmy107": {
+        "t": [
+            4.248028
+        ],
+        "duration": 5.125,
+        "path": "Mom's Going To Be Mad - Throwback Fails (June 2017) _ FailArmy107.mp4",
+        "failure": 1,
+        "wentwrong_1": "The items landed away from the safe zone.",
+        "goal_1": "Don't know",
+        "wentwrong_2": "the cat falls down and people dont catch it",
+        "goal_2": "man tries to get cat off tree",
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a group of people standing on a ladder and washing windows. They are using a hose to clean the windows.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows people washing windows using a hose, which is not a common activity.</s>"
+    },
+    "Funny Animal Fails - Just In Time For Election 2016 _ Fail Army29": {
+        "t": [
+            -1.0
+        ],
+        "duration": 6.25,
+        "path": "Funny Animal Fails - Just In Time For Election 2016 _ Fail Army29.mp4",
+        "failure": 0,
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a group of deer in a field. One of the deer is seen eating a piece of paper while the others are standing around.\n\nAnswer with Explanation: Yes. The video shows unusual activities as it shows a deer eating a piece of paper. This is not a typical behavior for deer, and it adds an element of surprise to the video.</s>"
+    },
+    "FailArmy After Dark - Party On!  (Ep. 3)172": {
+        "t": [
+            1.422439
+        ],
+        "duration": 7.0,
+        "path": "FailArmy After Dark - Party On!  (Ep. 3)172.mp4",
+        "failure": 1,
+        "wentwrong_1": "The wave hit them straight on and the boat capsized.",
+        "goal_1": "The goal was to ride the wave.",
+        "wentwrong_2": "The waves takes him for a ride and washes his boat away as well.",
+        "goal_2": "A person tries to jump into a wave as it approaches.",
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a man riding a wave on a surfboard, and another man riding a wave on a jet ski. There are also people swimming in the water.\n\nAnswer with Explanation: Yes.</s>"
+    },
+    "Throwback Fails - Jump Around! (March 2018) _ FailArmy38": {
+        "t": [
+            3.787579
+        ],
+        "duration": 7.625,
+        "path": "Throwback Fails - Jump Around! (March 2018) _ FailArmy38.mp4",
+        "failure": 1,
+        "wentwrong_1": "The child ends up going through some leaves on a tree.",
+        "goal_1": "A child wants to take a ride on a man's shoulders.",
+        "wentwrong_2": "The child hit some tree branches with his face",
+        "goal_2": "A dad is playing with a child sitting on his shoulders",
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a man holding a baby in a park. The man is wearing a black hat and glasses. The baby is wearing a black hat and a white shirt. The man is seen holding the baby in different positions, including on his shoulders and in his arms. The baby is also seen standing on the man's shoulders. The video captures the man and the baby enjoying the park and the outdoors.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows the man holding the baby in different positions and the baby standing on the man's shoulders. These activities are not typical for a park setting and add an element of fun and playfulness to the video.</s>"
+    },
+    "FailArmy's Got Talent (October 2017) _ FailArmy12": {
+        "t": [
+            4.36713
+        ],
+        "duration": 8.625,
+        "path": "FailArmy's Got Talent (October 2017) _ FailArmy12.mp4",
+        "failure": 1,
+        "wentwrong_1": "Did a spin and fell off.",
+        "goal_1": "Dancing on a barrel.",
+        "wentwrong_2": "He loses balance and falls off of the barrel",
+        "goal_2": "A man is dancing on a plastic barrel",
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a group of people gathered in a field, with some of them playing with a blue barrel. One man climbs on top of the barrel and jumps off, while another man falls off the barrel and lands on the ground.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows a man climbing on top of a barrel and jumping off, which is not a typical activity in a field. Additionally, one man falls off the barrel and lands on the ground, which is also an unusual activity.</s>"
+    },
+    "Fails of the Month (December 2016) _ FailArmy38": {
+        "t": [
+            -1.0
+        ],
+        "duration": 6.125,
+        "path": "Fails of the Month (December 2016) _ FailArmy38.mp4",
+        "failure": 0,
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a group of people riding bikes on a dirt road. They are wearing helmets and some are wearing goggles. The bikes are of different colors and designs. The riders are moving at a fast pace and some are jumping over obstacles. The video also shows a person riding a bike on a dirt road with a dog.\n\nAnswer with Explanation: Yes. The video contains unusual activities such as riding bikes on a dirt road and jumping over obstacles.</s>"
+    },
+    "The Summer of Fails - Fails of the Week (July 2018) _ FailArmy38": {
+        "t": [
+            -1.0
+        ],
+        "duration": 54.0,
+        "path": "The Summer of Fails - Fails of the Week (July 2018) _ FailArmy38.mp4",
+        "failure": 0,
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows two men in a car, one of whom is driving while the other is singing along. They are seen laughing and having a good time.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows two men in a car, one of whom is driving while the other is singing along. This is not a typical activity that one would expect to see in a car.</s>"
+    },
+    "Best Fails of the Week 3 February 2016 _ 'I'm OK, Wheres my Jetski!'FailArmy38": {
+        "t": [
+            6.359369
+        ],
+        "duration": 10.875,
+        "path": "Best Fails of the Week 3 February 2016 _ 'I'm OK, Wheres my Jetski!'FailArmy38.mp4",
+        "failure": 1,
+        "wentwrong_1": "It falls on top of the man",
+        "goal_1": "Trying too put the satellite on the truck",
+        "wentwrong_2": "the object end ups falling to the ground.",
+        "goal_2": "someone is trying to push the top of some sort of very large object",
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a man walking his dog in a neighborhood. The dog is seen running around and chasing its tail. The man is also seen walking his dog in different locations.\n\nAnswer with Explanation: Yes.</s>"
+    },
+    "Fails of the Month - Failure In Full Force (January 2017) _ FailArmy39": {
+        "t": [
+            3.262535
+        ],
+        "duration": 3.75,
+        "path": "Fails of the Month - Failure In Full Force (January 2017) _ FailArmy39.mp4",
+        "failure": 1,
+        "wentwrong_1": "The cat falls off the box.",
+        "goal_1": "A cat is on a box of papers.",
+        "wentwrong_2": "The cat falls off the table.",
+        "goal_2": "A cat tries to tilt sideways to see something.",
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a cat sitting on a bed and a chair, and also on a desk with a book. The cat is also seen laying on a blanket on the floor.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows the cat sitting on a desk with a book, which is not a typical place for a cat to sit.</s>"
+    },
+    "It's All Down Hill From Here - Throwback Fails (August 2017)70": {
+        "t": [
+            8.69423
+        ],
+        "duration": 11.125,
+        "path": "It's All Down Hill From Here - Throwback Fails (August 2017)70.mp4",
+        "failure": 1,
+        "wentwrong_1": "The contraption fell apart on the ramp.",
+        "goal_1": "Some people were rolling a guy in a flaming contraption down a ramp.",
+        "wentwrong_2": "The sled tips over halfway down the hill and the person falls out",
+        "goal_2": "There is someone trying to ride a sled that's on fire down a snowy hill",
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a man in a black shirt and hat standing in front of a fire pit, while a man in a white shirt and black hat is standing in front of a fire pit with a woman in a white shirt and black hat standing next to him. There is also a man in a black shirt and hat standing in front of a fire pit with a woman in a white shirt and black hat standing next to him. Additionally, there is a man in a black shirt and hat standing in front of a fire pit with a woman in a white shirt and black hat standing next to him.\n\nAnswer with Explanation: Yes.</s>"
+    },
+    "Throwback Fails - Jump Around! (March 2018) _ FailArmy36": {
+        "t": [
+            3.398191
+        ],
+        "duration": 4.625,
+        "path": "Throwback Fails - Jump Around! (March 2018) _ FailArmy36.mp4",
+        "failure": 1,
+        "wentwrong_1": "child gets hit in the face with it",
+        "goal_1": "man shoots child with nerf gun",
+        "wentwrong_2": "The bullet went in the childs eye.",
+        "goal_2": "Play toy guns with a kid.",
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a little boy playing with a toy gun in a living room. He then goes outside and shoots a bottle with the gun. The video also shows a man swimming in the water with a fish.\n\nAnswer with Explanation: Yes. The video contains unusual activities such as the little boy playing with a toy gun and shooting a bottle with it, and the man swimming in the water with a fish.</s>"
+    },
+    "Best Fails of the Week - The Eagles Are Champs!! (February 2018) _ FailArmy14": {
+        "t": [
+            3.524448
+        ],
+        "duration": 24.0,
+        "path": "Best Fails of the Week - The Eagles Are Champs!! (February 2018) _ FailArmy14.mp4",
+        "failure": 1,
+        "wentwrong_1": "They missed the sled and slid down on their belly.",
+        "goal_1": "A child tried to slide on a sled down a snow mountain.",
+        "wentwrong_2": "The boy fell and rolled down the hill.",
+        "goal_2": "A boy was trying to sled down a mountain of snow.",
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a man in a green jacket and black pants who is seen walking in the snow. He is holding an orange surfboard and is seen walking towards a pile of wood. He then starts chopping the wood with an axe.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows a man carrying an orange surfboard in the snow, which is not a common sight. Additionally, the man is chopping wood with an axe, which is also an unusual activity in the snow.</s>"
+    },
+    "Best Fails of the Week - The Eagles Are Champs!! (February 2018) _ FailArmy18": {
+        "t": [
+            4.195557
+        ],
+        "duration": 7.375,
+        "path": "Best Fails of the Week - The Eagles Are Champs!! (February 2018) _ FailArmy18.mp4",
+        "failure": 1,
+        "wentwrong_1": "The guy falls over.",
+        "goal_1": "A guy is doing tricks with a hoop.",
+        "wentwrong_2": "The man accidentally fell.",
+        "goal_2": "To spin around on the big hoop.",
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a man performing tricks with a hula hoop in a room. He is seen spinning the hoop around his waist, neck, and arms. The man also lays on the floor while spinning the hoop around his body.\n\nAnswer with Explanation: Yes. The video contains unusual activities as the man performs tricks with the hula hoop that are not typically seen in everyday life.</s>"
+    },
+    "FailFactory - No Pain, No Gain (Workout Fails)153": {
+        "t": [
+            5.730334
+        ],
+        "duration": 8.25,
+        "path": "FailFactory - No Pain, No Gain (Workout Fails)153.mp4",
+        "failure": 1,
+        "wentwrong_1": "Man did not give himself enough time to clap and fell back down.",
+        "goal_1": "To do a push up with a clap.",
+        "wentwrong_2": "He falls on his face.",
+        "goal_2": "A man is trying to do push ups.",
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a man in a white shirt and a woman in a white shirt and a white coat in a kitchen. The man is seen standing on a chair and then falling off it. The woman is also seen standing on a chair and then falling off it. The video also shows a man in a white shirt and a white coat lying on the floor.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows people falling off chairs in a kitchen.</s>"
+    },
+    "Get Out Of The Way!! - FailArmy After Dark (Ep. 12)13": {
+        "t": [
+            0.0
+        ],
+        "duration": 7.625,
+        "path": "Get Out Of The Way!! - FailArmy After Dark (Ep. 12)13.mp4",
+        "failure": 1,
+        "wentwrong_1": "A person hit a water tank that began spraying water everywhere.",
+        "goal_1": "Don't know",
+        "wentwrong_2": "A canister spinds around and trips him.",
+        "goal_2": "A man tries dancing atop a table.",
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a group of people standing around a fire, with smoke rising from the ground. The people are seen walking around and standing in front of the fire.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows people engaging in a fire-related activity, which is not a common sight in everyday life. The smoke rising from the ground and the people walking around and standing in front of the fire suggest that this is not a normal activity.</s>"
+    },
+    "Classic Redneck Waterslide - Throwback Fails (July 2017)11": {
+        "t": [
+            7.109184
+        ],
+        "duration": 10.25,
+        "path": "Classic Redneck Waterslide - Throwback Fails (July 2017)11.mp4",
+        "failure": 1,
+        "wentwrong_1": "Pushed friend through the door onto the ground",
+        "goal_1": "Don't know",
+        "wentwrong_2": "The door opens and they both fall over.",
+        "goal_2": "A girl is shoving a girl.",
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows two girls playing rock paper scissors in a room. One of the girls is wearing a red shirt and the other is wearing a black shirt. The girl in the red shirt wins the game and the girl in the black shirt gets angry. She then pushes the girl in the red shirt and hits her with a rock. The girl in the red shirt falls to the ground and the girl in the black shirt walks away.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows a violent act of pushing and hitting the girl in the red shirt.</s>"
+    },
+    "Best Fails of the Year 2017 - Part 1 (December 2017) _ FailArmy25": {
+        "t": [
+            8.220628
+        ],
+        "duration": 17.875,
+        "path": "Best Fails of the Year 2017 - Part 1 (December 2017) _ FailArmy25.mp4",
+        "failure": 1,
+        "wentwrong_1": "The woman's hair catches fire.",
+        "goal_1": "The woman wants to provide a hair tutorial.",
+        "wentwrong_2": "Her hair caught fire while she was filming.",
+        "goal_2": "To video herself straightening her hair.",
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a woman in a room with a laptop, a mirror, and a chair. She is seen brushing her hair, sitting on the floor, and standing in front of the mirror.\n\nAnswer with Explanation: No.</s>"
+    },
+    "The Wheels Are Coming Off! - Throwback Fails (December 2017) _ FailArmy35": {
+        "t": [
+            -1.0
+        ],
+        "duration": 4.375,
+        "path": "The Wheels Are Coming Off! - Throwback Fails (December 2017) _ FailArmy35.mp4",
+        "failure": 0,
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a man swinging a baseball bat and hitting a ball. The man is wearing a white shirt and is standing in a field. The ball is flying through the air and the man is running after it.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows a man swinging a baseball bat and hitting a ball, which is not a typical activity.</s>"
+    },
+    "It's All Down Hill From Here - Throwback Fails (August 2017)92": {
+        "t": [
+            2.785702
+        ],
+        "duration": 6.75,
+        "path": "It's All Down Hill From Here - Throwback Fails (August 2017)92.mp4",
+        "failure": 1,
+        "wentwrong_1": "the guy falls forward and hits his ribs on the bar",
+        "goal_1": "to do a handstand on the parallel bars",
+        "wentwrong_2": "Messes up and falls on face",
+        "goal_2": "Perform a balancing exercise",
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a man performing various gymnastic moves on a bar, including a handstand and a flip. There is also a young girl playing with a toy in the background.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows a man performing gymnastic moves on a bar, which is not a typical activity for a casual observer.</s>"
+    },
+    "FailFactory - No Pain, No Gain (Workout Fails)20": {
+        "t": [
+            3.392273
+        ],
+        "duration": 8.375,
+        "path": "FailFactory - No Pain, No Gain (Workout Fails)20.mp4",
+        "failure": 1,
+        "wentwrong_1": "doesnt do it right, and wipes out",
+        "goal_1": "a guy is doing jump rope and tries to do a backflip",
+        "wentwrong_2": "He fell trying to backflip.",
+        "goal_2": "The goal was to backflip.",
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a man performing various exercises in a gym. He is seen doing pull-ups on a bar, squatting with a rope, and doing a handstand on a rope.\n\nAnswer with Explanation: Yes. The video contains unusual activities such as the man doing a handstand on a rope and squatting with a rope. These activities are not typically seen in a gym setting and are considered unusual.</s>"
+    },
+    "The Ultimate Funny Monkey Compilation _ Monkey Fails by FailArmy49": {
+        "t": [
+            -1.0
+        ],
+        "duration": 8.25,
+        "path": "The Ultimate Funny Monkey Compilation _ Monkey Fails by FailArmy49.mp4",
+        "failure": 0,
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a tree with no leaves and a bird perched on it. The bird is seen eating something off the tree.\n\nAnswer with Explanation: Yes.</s>"
+    },
+    "The Ultimate Funny Monkey Compilation _ Monkey Fails by FailArmy4": {
+        "t": [
+            0.567928
+        ],
+        "duration": 4.5,
+        "path": "The Ultimate Funny Monkey Compilation _ Monkey Fails by FailArmy4.mp4",
+        "failure": 1,
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a monkey walking on a wooden deck and then jumping down. The monkey is also seen walking on a wooden staircase and a wooden fence.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows a monkey walking on a wooden deck and then jumping down. This is not a normal activity for a monkey to do.</s>"
+    },
+    "Grandmas vs Grandpas - FailArmy Versus (December 2017) _ FailArmy0": {
+        "t": [
+            5.370338
+        ],
+        "duration": 6.875,
+        "path": "Grandmas vs Grandpas - FailArmy Versus (December 2017) _ FailArmy0.mp4",
+        "failure": 1,
+        "wentwrong_1": "She lost her balance and fell.",
+        "goal_1": "The gran wanted to play hop scotch with the child.",
+        "wentwrong_2": "Grandma ended up falling over onto the concrete",
+        "goal_2": "Grandma was playing hopscotch",
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a woman and a little girl standing outside a house. The woman is wearing a white shirt and blue jeans, while the little girl is wearing a red and black checkered shirt and blue jeans. The woman is holding a white umbrella, and the little girl is holding a pink umbrella. The woman is also holding a cell phone in her hand.\n\nAnswer with Explanation: No. The video only shows normal activities, such as standing outside a house and holding umbrellas. There are no unusual activities shown in the video.</s>"
+    },
+    "FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy68": {
+        "t": [
+            3.252769
+        ],
+        "duration": 6.125,
+        "path": "FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy68.mp4",
+        "failure": 1,
+        "wentwrong_1": "She fell too fast and far, so when she landed and hit her face on the ground.",
+        "goal_1": "The girl tried to jump out of a high window.",
+        "wentwrong_2": "they go to the ground, and wipe out bad",
+        "goal_2": "a boy tries to jump out of a window",
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a man performing a backflip off the roof of a garage. He lands on his feet and rolls onto his back. The video also shows a man standing on a ladder and another man standing on a skateboard.\n\nAnswer with Explanation: Yes. The video contains unusual activities such as the man performing a backflip off the roof of a garage, which is not a typical activity one would expect to see in a video.</s>"
+    },
+    "Best Fails of the Week 3 May 2016 _ FailArmy15": {
+        "t": [
+            1.554927
+        ],
+        "duration": 3.5,
+        "path": "Best Fails of the Week 3 May 2016 _ FailArmy15.mp4",
+        "failure": 1,
+        "wentwrong_1": "a toy car hit a guy in his head",
+        "goal_1": "Don't know",
+        "wentwrong_2": "She hit a person with the car",
+        "goal_2": "She was driving a rc vehicle",
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a man performing tricks on roller blades in various locations. He is seen skating on a ramp, a sidewalk, and a street. The man is also seen holding a skateboard and a baseball bat.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows the man performing tricks on roller blades, which is not a common activity.</s>"
+    },
+    "Throwback Fails - Everybody Sing!! (February 2018) _ FailArmy1": {
+        "t": [
+            -1.0
+        ],
+        "duration": 6.625,
+        "path": "Throwback Fails - Everybody Sing!! (February 2018) _ FailArmy1.mp4",
+        "failure": 0,
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a man standing on a boat, and another man sitting on the boat. The man standing on the boat is wearing a grey hoodie and a black cap. The man sitting on the boat is wearing a white shirt and a black cap. The boat is surrounded by mountains and water. The video also shows a man in a grey hoodie and a black cap standing on a boat with a mountain in the background.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows a man in a grey hoodie and a black cap standing on a boat with a mountain in the background. This is unusual as it is not common to see someone standing on a boat with a mountain in the background.</s>"
+    },
+    "Fails of the Week (March 2017) _ FailArmy39": {
+        "t": [
+            -1.0
+        ],
+        "duration": 5.5,
+        "path": "Fails of the Week (March 2017) _ FailArmy39.mp4",
+        "failure": 0,
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a man standing next to a car with a flat tire. He is holding a spare tire and a jack. The man then proceeds to change the tire.\n\nAnswer with Explanation: Yes.</s>"
+    },
+    "Get Out Of The Way!! - FailArmy After Dark (Ep. 12)73": {
+        "t": [
+            -1.0
+        ],
+        "duration": 3.875,
+        "path": "Get Out Of The Way!! - FailArmy After Dark (Ep. 12)73.mp4",
+        "failure": 0,
+        "videollava_prompt_2": "You should not generate false or malicious content. Before fulfilling instructions, Please first identify if there are any errors or harmful information in the request. \n    Request:\n    Given a series of 8 images with following Task.\n\tTask: Image captioning, Question Answering\n   \n\tSuppose you are a smart teacher, after looking at the image information above, come up with narration of all the images and answer of the following question.\n\tQuestion: Does the video contain only normal activities? Or does this video contain any unusual activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it only contains normal activities?\n   \n\tOutput format:\n\tNarration:\n\tAnswer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_2": "Narration: The video shows a person walking down the street, a person washing their hands in a bathroom sink, a person standing in front of a mirror, a person standing in front of a door, a person standing in front of a window, a person standing in front of a door, and a person standing in front of a door.\n\nAnswer with Explanation: No.</s>"
+    }
+}

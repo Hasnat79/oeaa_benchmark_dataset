@@ -1,0 +1,514 @@
+{
+    "The Wheels Are Coming Off! - Throwback Fails (December 2017) _ FailArmy29": {
+        "t": [
+            3.873003
+        ],
+        "duration": 8.625,
+        "path": "The Wheels Are Coming Off! - Throwback Fails (December 2017) _ FailArmy29.mp4",
+        "failure": 1,
+        "wentwrong_1": "The rope bounces too hard and the man falls over.",
+        "goal_1": "A man is jumping on a stretched rope.",
+        "wentwrong_2": "He lost his balance and fell onto the ground.",
+        "goal_2": "A man was balancing on a slack line.",
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a man walking on a rope in a park. He falls off the rope and lands on the ground.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows a man walking on a rope in a park, which is not a common activity.</s>"
+    },
+    "Fails of the Week 4 September 2016 _ FailArmy27": {
+        "t": [
+            2.60905
+        ],
+        "duration": 5.5,
+        "path": "Fails of the Week 4 September 2016 _ FailArmy27.mp4",
+        "failure": 1,
+        "wentwrong_1": "The boy falls onto the stick and hurts himself in the groin.",
+        "goal_1": "A boy tries to use a Pogo stick.",
+        "wentwrong_2": "He ended up hitting the pogo stick into his groin area",
+        "goal_2": "The boy was playing with the pogo stick",
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a young boy playing with a toy in a backyard. He is seen pushing the toy around and then pushing it up against a tree.\n\nAnswer with Explanation: Yes. The video contains unusual activities as the boy is playing with a toy that is not a typical outdoor toy.</s>"
+    },
+    "Throwback Fails - Jump Around! (March 2018) _ FailArmy22": {
+        "t": [
+            4.512474
+        ],
+        "duration": 9.5,
+        "path": "Throwback Fails - Jump Around! (March 2018) _ FailArmy22.mp4",
+        "failure": 1,
+        "wentwrong_1": "He tripped and fell off his skis and into the dirt.",
+        "goal_1": "A person was trying to ski on dirt.",
+        "wentwrong_2": "He got stuck and ended up rolling down the hill",
+        "goal_2": "The guy was trying to skii down the hill",
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a man and a woman walking up a snowy hill while carrying snowboards. They then start snowboarding down the hill.\n\nAnswer with Explanation: Yes. The video shows unusual activities such as snowboarding down a hill.</s>"
+    },
+    "Throwback Fails - Jump Around! (March 2018) _ FailArmy21": {
+        "t": [
+            2.88849
+        ],
+        "duration": 9.25,
+        "path": "Throwback Fails - Jump Around! (March 2018) _ FailArmy21.mp4",
+        "failure": 1,
+        "wentwrong_1": "He lost control of the scooter and fell",
+        "goal_1": "A man was riding a scooter down a sidewalk and tried to avoid hitting a dog",
+        "wentwrong_2": "The dog got in the way of the man and he fell.",
+        "goal_2": "Just to show the family scootering.",
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a man skateboarding in a park while being chased by two dogs. He falls down and gets up, and the dogs continue to chase him.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows a man being chased by dogs while skateboarding. This is not a normal activity as people usually skateboard for fun and not to be chased by dogs.</s>"
+    },
+    "Throwback Fails - Carriage Carnage (April 2018) _ FailArmy50": {
+        "t": [
+            1.477786
+        ],
+        "duration": 10.375,
+        "path": "Throwback Fails - Carriage Carnage (April 2018) _ FailArmy50.mp4",
+        "failure": 1,
+        "wentwrong_1": "the lady fell down into the grass after going down the hill",
+        "goal_1": "a mom sat on a small cart and went down a small slide",
+        "wentwrong_2": "Fell over and hit face",
+        "goal_2": "Ride down a child's slide",
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a woman and a child playing on a slide in a backyard. The woman is seen lying on the ground while the child is playing with a yellow toy. The video also shows a man and a woman playing with a yellow toy in the grass.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows a woman lying on the ground while the child is playing with a yellow toy. This is not a typical activity that one would expect to see in a backyard.</s>"
+    },
+    "It's All Down Hill From Here - Throwback Fails (August 2017)68": {
+        "t": [
+            -1.0
+        ],
+        "duration": 6.125,
+        "path": "It's All Down Hill From Here - Throwback Fails (August 2017)68.mp4",
+        "failure": 0,
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a man riding a bike down a snowy hill, while another man is skiing down the same hill. The man on the bike falls over, and the man on skis stops to help him.\n\nAnswer with Explanation: Yes. The video contains unusual activities such as a man riding a bike down a snowy hill, which is not a common activity.</s>"
+    },
+    "Fails of the Week (March 2017) _ FailArmy14": {
+        "t": [
+            1.002466
+        ],
+        "duration": 19.625,
+        "path": "Fails of the Week (March 2017) _ FailArmy14.mp4",
+        "failure": 1,
+        "wentwrong_1": "girl skiing fast down hill fell",
+        "goal_1": "record person skiing down hall",
+        "wentwrong_2": "She nearly hits a person and then falls in the snow.",
+        "goal_2": "A person is skiing down a snow covered hill.",
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a person snowboarding down a snowy hill, passing by a person in a blue jacket. The person in the blue jacket is standing on the snowy hill, and there is a person in a blue jacket standing on the snowy hill. The person in the blue jacket is standing on the snowy hill, and there is a person in a blue jacket standing on the snowy hill. The person in the blue jacket is standing on the snowy hill, and there is a person in a blue jacket standing on the snowy hill. The person in the blue jacket is standing on the snowy hill, and there is a person in a blue jacket standing on the snowy hill. The person in the blue jacket is standing on the snowy hill, and there is a person in a blue jacket standing on the snowy hill. The person in the blue jacket is standing on the snowy hill, and there is a person in a blue jacket standing on the snowy hill. The person in the blue jacket is standing on the snowy hill, and there is a person in a blue jacket standing on the snowy hill. The person in the blue jacket is standing on the snowy hill, and there is a person in a blue jacket standing on the snowy hill. The person in the blue jacket is standing on the snowy hill, and there is a person in a blue jacket standing on the snowy hill. The person in the blue jacket is standing on the snowy hill, and there is a person in a blue jacket standing on the snowy hill. The person in the blue jacket is standing on the snowy hill, and there is a person in a blue jacket standing on the snowy hill. The person in the blue jacket is standing on the snowy hill, and there is a person in a blue jacket standing on the snowy hill. The person in the blue jacket is standing on the snowy hill, and there is a person in a blue jacket standing on the snowy hill. The person in the blue jacket is standing on the snowy hill, and there is a person in a blue jacket standing on the snowy hill. The person in the blue jacket is standing on the snowy hill, and there is a person in a blue jacket standing on the snowy hill. The person in the blue jacket is standing on the snowy hill, and there is a person in a blue jacket standing on the snowy hill. The person in the blue jacket is standing on the snowy hill, and there is a person in a blue jacket standing on the snowy hill. The person in the blue jacket is standing on the snowy hill, and there is a person in a blue jacket standing on the snowy hill. The person in the blue jacket is standing on the snowy hill, and there is a person in a blue jacket standing on the snowy hill. The person in the blue jacket is standing on the snowy hill, and there is a person in a blue jacket standing on the snowy hill. The person in the blue jacket is standing on the snowy hill, and there is a person in a blue jacket standing on the snowy hill. The person in the blue jacket is standing on the snowy hill, and there is a person in a blue jacket standing on the snowy hill. The person in the blue jacket is standing on the snowy hill, and there is a person in a blue jacket standing on the snowy hill. The person in the blue jacket is standing on the snowy hill, and there is a person in a blue jacket standing on the snowy hill. The person in the blue jacket is standing on the snowy hill, and there is a person in a blue jacket standing on the snowy hill. The person in the blue jacket is standing on the snowy hill, and there is a person in a blue jacket standing on the snowy hill. The person in the blue jacket is standing on the snowy hill, and there is a person in a blue jacket standing on the snowy hill. The person in the blue jacket is standing on the snowy hill, and there is a person in a blue jacket standing on the snowy hill. The person in the blue jacket is standing on the snowy hill, and there is a person in a blue jacket standing on the snowy hill. The person in the blue jacket is standing on the snowy hill, and there is a person in a blue jacket standing on the snowy hill. The person in the blue jacket is standing on the snowy hill, and there is a person in a blue jacket standing on the snowy hill. The person in the"
+    },
+    "Don't Be Such a Baby - Kid Fails (September 2018) _ FailArmy25": {
+        "t": [
+            15.420136
+        ],
+        "duration": 15.875,
+        "path": "Don't Be Such a Baby - Kid Fails (September 2018) _ FailArmy25.mp4",
+        "failure": 1,
+        "wentwrong_1": "The little girl wanted to spin but ended up falling down instead.",
+        "goal_1": "The little girl wanted to dance.",
+        "wentwrong_2": "The child spun and then fell down on the floor.",
+        "goal_2": "A child was dancing in the living room.",
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a little girl dancing in a living room while wearing a black dress. She is seen spinning around and moving her arms and legs. The video also shows a little boy dancing in the same living room.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows a little girl dancing in a living room while wearing a black dress. The video also shows a little boy dancing in the same living room.</s>"
+    },
+    "Ninja Fails - Sweep The Leg! (March 2017) _ FailArmy51": {
+        "t": [
+            0.573387
+        ],
+        "duration": 8.25,
+        "path": "Ninja Fails - Sweep The Leg! (March 2017) _ FailArmy51.mp4",
+        "failure": 1,
+        "wentwrong_1": "He hits himself in the head.",
+        "goal_1": "A man practices nunchucks in his bedroom.",
+        "wentwrong_2": "He accidentally hit himself in the cheek, and then the head, with one of them.",
+        "goal_2": "A man was trying to perform a trick with nunchucks.",
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a man practicing martial arts in a gym. He is seen doing various moves with a stick and a sword.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows a man practicing martial arts with a stick and a sword. This is not a common activity that one would expect to see in a gym.</s>"
+    },
+    "FailArmy After Dark - That's Got to Sting (Ep. 6)128": {
+        "t": [
+            1.498735
+        ],
+        "duration": 7.375,
+        "path": "FailArmy After Dark - That's Got to Sting (Ep. 6)128.mp4",
+        "failure": 1,
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a woman doing sit-ups on the floor while a man is sitting on a chair next to her. The woman is wearing a white shirt and red shorts. The man is wearing a green shirt and jeans. The woman is also holding a pumpkin in her hand.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows a woman doing sit-ups on the floor while a man is sitting on a chair next to her. This is not a common activity that people do in their daily lives.</s>"
+    },
+    "FailFactory - No Pain, No Gain (Workout Fails)122": {
+        "t": [
+            6.91426
+        ],
+        "duration": 8.0,
+        "path": "FailFactory - No Pain, No Gain (Workout Fails)122.mp4",
+        "failure": 1,
+        "wentwrong_1": "he jumped up and then didnt catch back on and fell",
+        "goal_1": "to do pullups and punch the ceiling while doing so",
+        "wentwrong_2": "man lost his grip and fell onto the ground",
+        "goal_2": "man was trying to do jumping pull ups",
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a man performing various exercises in a gym. He is seen hanging from a bar, doing pull-ups, and jumping on a rope.\n\nAnswer with Explanation: Yes. The video contains unusual activities such as the man hanging from a bar and doing pull-ups. These activities are not typically seen in a gym setting and are considered unusual.</s>"
+    },
+    "FailArmy After Dark - Say It, Don't Spray It (Ep. 7)107": {
+        "t": [
+            -1.0
+        ],
+        "duration": 4.75,
+        "path": "FailArmy After Dark - Say It, Don't Spray It (Ep. 7)107.mp4",
+        "failure": 0,
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a group of people dancing in a ballroom. The camera pans around the room, and we see people sitting at tables and chairs. The dancers move gracefully around the room, and the music is lively.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows people dancing in a ballroom, which is not a common sight in everyday life. The camera pans around the room, and we see people sitting at tables and chairs, which is not a typical setting for dancing. The dancers move gracefully around the room, and the music is lively, which adds to the unusual nature of the video.</s>"
+    },
+    "Mom's Going To Be Mad - Throwback Fails (June 2017) _ FailArmy107": {
+        "t": [
+            4.248028
+        ],
+        "duration": 5.125,
+        "path": "Mom's Going To Be Mad - Throwback Fails (June 2017) _ FailArmy107.mp4",
+        "failure": 1,
+        "wentwrong_1": "The items landed away from the safe zone.",
+        "goal_1": "Don't know",
+        "wentwrong_2": "the cat falls down and people dont catch it",
+        "goal_2": "man tries to get cat off tree",
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a man and two women standing on a ladder and using a leaf blower to clean the yard. The man is wearing a green shirt, and the woman on the left is wearing a yellow shirt. The woman on the right is wearing a black shirt. The man is holding the leaf blower, and the woman on the left is holding a camera. The video also shows a swimming pool in the background.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows a man and two women using a leaf blower to clean the yard. This is not a common activity, and it is not something that people usually do in their yards. The video also shows a swimming pool in the background, which is not a common sight in a yard.</s>"
+    },
+    "Funny Animal Fails - Just In Time For Election 2016 _ Fail Army29": {
+        "t": [
+            -1.0
+        ],
+        "duration": 6.25,
+        "path": "Funny Animal Fails - Just In Time For Election 2016 _ Fail Army29.mp4",
+        "failure": 0,
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a group of deer in a field. One of the deer is seen eating a piece of paper while the others are standing around. The deer is also seen making a noise with its mouth.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows a deer eating a piece of paper, which is not a typical behavior for deer.</s>"
+    },
+    "FailArmy After Dark - Party On!  (Ep. 3)172": {
+        "t": [
+            1.422439
+        ],
+        "duration": 7.0,
+        "path": "FailArmy After Dark - Party On!  (Ep. 3)172.mp4",
+        "failure": 1,
+        "wentwrong_1": "The wave hit them straight on and the boat capsized.",
+        "goal_1": "The goal was to ride the wave.",
+        "wentwrong_2": "The waves takes him for a ride and washes his boat away as well.",
+        "goal_2": "A person tries to jump into a wave as it approaches.",
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a man riding a surfboard on a large wave in the ocean. The man is wearing a black wetsuit and is seen riding the wave for a while before falling off the board. The video also shows a man in a yellow kayak riding the same wave. The video captures the thrill of surfing and kayaking in the ocean.\n    Answer with Explanation: Yes. The video contains unusual activities as it shows a man in a yellow kayak riding the same wave as the surfer. This is not a common sight as kayakers usually ride on calm waters. The video also shows the surfer falling off the board, which is not a common occurrence in surfing.</s>"
+    },
+    "Throwback Fails - Jump Around! (March 2018) _ FailArmy38": {
+        "t": [
+            3.787579
+        ],
+        "duration": 7.625,
+        "path": "Throwback Fails - Jump Around! (March 2018) _ FailArmy38.mp4",
+        "failure": 1,
+        "wentwrong_1": "The child ends up going through some leaves on a tree.",
+        "goal_1": "A child wants to take a ride on a man's shoulders.",
+        "wentwrong_2": "The child hit some tree branches with his face",
+        "goal_2": "A dad is playing with a child sitting on his shoulders",
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a man holding a baby in a park and playing with the baby. The man is wearing a black hat and glasses. The baby is wearing a black hat and a white shirt. The man is also wearing a black hat and glasses. The video shows the man holding the baby in different positions, including on his shoulders and in his arms. The video also shows the man holding the baby in front of a tree.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows the man holding the baby in different positions and in front of a tree.</s>"
+    },
+    "FailArmy's Got Talent (October 2017) _ FailArmy12": {
+        "t": [
+            4.36713
+        ],
+        "duration": 8.625,
+        "path": "FailArmy's Got Talent (October 2017) _ FailArmy12.mp4",
+        "failure": 1,
+        "wentwrong_1": "Did a spin and fell off.",
+        "goal_1": "Dancing on a barrel.",
+        "wentwrong_2": "He loses balance and falls off of the barrel",
+        "goal_2": "A man is dancing on a plastic barrel",
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a man performing a handstand on a barrel, while a group of people are standing around him. The man then falls off the barrel and lands on the ground.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows a man performing a handstand on a barrel, which is not a common activity.</s>"
+    },
+    "Fails of the Month (December 2016) _ FailArmy38": {
+        "t": [
+            -1.0
+        ],
+        "duration": 6.125,
+        "path": "Fails of the Month (December 2016) _ FailArmy38.mp4",
+        "failure": 0,
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a person riding a bike on a dirt road, passing by a wooden house, and then riding through a forest. The video also shows a person riding a bike on a dirt road with trees in the background.\n\nAnswer with Explanation: Yes. The video contains unusual activities such as riding a bike on a dirt road with trees in the background and passing by a wooden house.</s>"
+    },
+    "The Summer of Fails - Fails of the Week (July 2018) _ FailArmy38": {
+        "t": [
+            -1.0
+        ],
+        "duration": 54.0,
+        "path": "The Summer of Fails - Fails of the Week (July 2018) _ FailArmy38.mp4",
+        "failure": 0,
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows two men in a car, one of whom is driving while the other is singing along. They are seen driving down a highway with trees on both sides. The video also shows a man in a white shirt standing in front of a building.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows a man in a white shirt standing in front of a building, which is not related to the main activity of the video.</s>"
+    },
+    "Best Fails of the Week 3 February 2016 _ 'I'm OK, Wheres my Jetski!'FailArmy38": {
+        "t": [
+            6.359369
+        ],
+        "duration": 10.875,
+        "path": "Best Fails of the Week 3 February 2016 _ 'I'm OK, Wheres my Jetski!'FailArmy38.mp4",
+        "failure": 1,
+        "wentwrong_1": "It falls on top of the man",
+        "goal_1": "Trying too put the satellite on the truck",
+        "wentwrong_2": "the object end ups falling to the ground.",
+        "goal_2": "someone is trying to push the top of some sort of very large object",
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a man walking down the street while a large fan is spinning in the background. The man is also seen walking down the street with a large fan.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows a man walking down the street with a large fan. This is not a normal activity as people usually do not carry large fans while walking down the street.</s>"
+    },
+    "Fails of the Month - Failure In Full Force (January 2017) _ FailArmy39": {
+        "t": [
+            3.262535
+        ],
+        "duration": 3.75,
+        "path": "Fails of the Month - Failure In Full Force (January 2017) _ FailArmy39.mp4",
+        "failure": 1,
+        "wentwrong_1": "The cat falls off the box.",
+        "goal_1": "A cat is on a box of papers.",
+        "wentwrong_2": "The cat falls off the table.",
+        "goal_2": "A cat tries to tilt sideways to see something.",
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a cat sitting on a bed and a chair, and a person sitting on a chair in front of a window. The cat is also seen sitting on a bed with a book and a remote control.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows a cat sitting on a bed with a book and a remote control, which is not a common sight.</s>"
+    },
+    "It's All Down Hill From Here - Throwback Fails (August 2017)70": {
+        "t": [
+            8.69423
+        ],
+        "duration": 11.125,
+        "path": "It's All Down Hill From Here - Throwback Fails (August 2017)70.mp4",
+        "failure": 1,
+        "wentwrong_1": "The contraption fell apart on the ramp.",
+        "goal_1": "Some people were rolling a guy in a flaming contraption down a ramp.",
+        "wentwrong_2": "The sled tips over halfway down the hill and the person falls out",
+        "goal_2": "There is someone trying to ride a sled that's on fire down a snowy hill",
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a man in a black shirt and hat standing in front of a fire while a crowd watches. The man then walks towards a man in a white shirt and hat who is standing on a platform. The man in the black shirt then pushes the man in the white shirt down a slide, and the man in the white shirt falls into a pile of snow.\n    Answer with Explanation: Yes.</s>"
+    },
+    "Throwback Fails - Jump Around! (March 2018) _ FailArmy36": {
+        "t": [
+            3.398191
+        ],
+        "duration": 4.625,
+        "path": "Throwback Fails - Jump Around! (March 2018) _ FailArmy36.mp4",
+        "failure": 1,
+        "wentwrong_1": "child gets hit in the face with it",
+        "goal_1": "man shoots child with nerf gun",
+        "wentwrong_2": "The bullet went in the childs eye.",
+        "goal_2": "Play toy guns with a kid.",
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a little boy playing with a toy gun in a living room. He then goes outside and shoots a bottle with the gun. The video also shows a man swimming in the water with a shark.\n\nAnswer with Explanation: Yes. The video contains unusual activities such as the little boy playing with a toy gun and shooting a bottle with it, and the man swimming in the water with a shark.</s>"
+    },
+    "Best Fails of the Week - The Eagles Are Champs!! (February 2018) _ FailArmy14": {
+        "t": [
+            3.524448
+        ],
+        "duration": 24.0,
+        "path": "Best Fails of the Week - The Eagles Are Champs!! (February 2018) _ FailArmy14.mp4",
+        "failure": 1,
+        "wentwrong_1": "They missed the sled and slid down on their belly.",
+        "goal_1": "A child tried to slide on a sled down a snow mountain.",
+        "wentwrong_2": "The boy fell and rolled down the hill.",
+        "goal_2": "A boy was trying to sled down a mountain of snow.",
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a man in a green jacket and black pants who is seen walking in the snow. He is holding an orange surfboard and is seen walking towards a pile of wood. He then starts chopping the wood with an axe.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows a man carrying an orange surfboard in the snow, which is not a common sight. Additionally, the man is chopping wood with an axe, which is also an unusual activity in the snow.</s>"
+    },
+    "Best Fails of the Week - The Eagles Are Champs!! (February 2018) _ FailArmy18": {
+        "t": [
+            4.195557
+        ],
+        "duration": 7.375,
+        "path": "Best Fails of the Week - The Eagles Are Champs!! (February 2018) _ FailArmy18.mp4",
+        "failure": 1,
+        "wentwrong_1": "The guy falls over.",
+        "goal_1": "A guy is doing tricks with a hoop.",
+        "wentwrong_2": "The man accidentally fell.",
+        "goal_2": "To spin around on the big hoop.",
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a man performing tricks with a hula hoop in a living room. He is seen spinning the hoop around his waist, neck, and arms while sitting on the floor. The video also shows him standing on a chair and a couch while performing tricks.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows the man performing tricks with a hula hoop that is not a common household item. The tricks he performs are not only impressive but also require a lot of skill and coordination. The video showcases his talent and creativity in using the hula hoop as a prop for his performance.</s>"
+    },
+    "FailFactory - No Pain, No Gain (Workout Fails)153": {
+        "t": [
+            5.730334
+        ],
+        "duration": 8.25,
+        "path": "FailFactory - No Pain, No Gain (Workout Fails)153.mp4",
+        "failure": 1,
+        "wentwrong_1": "Man did not give himself enough time to clap and fell back down.",
+        "goal_1": "To do a push up with a clap.",
+        "wentwrong_2": "He falls on his face.",
+        "goal_2": "A man is trying to do push ups.",
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a man in a white shirt and a woman in a white shirt and a white coat playing on the floor. The man is seen crawling on the floor and the woman is seen crawling on the floor. The man is also seen lying on the floor.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows the man crawling on the floor and the woman crawling on the floor. These activities are not common in everyday life and are considered unusual.</s>"
+    },
+    "Get Out Of The Way!! - FailArmy After Dark (Ep. 12)13": {
+        "t": [
+            0.0
+        ],
+        "duration": 7.625,
+        "path": "Get Out Of The Way!! - FailArmy After Dark (Ep. 12)13.mp4",
+        "failure": 1,
+        "wentwrong_1": "A person hit a water tank that began spraying water everywhere.",
+        "goal_1": "Don't know",
+        "wentwrong_2": "A canister spinds around and trips him.",
+        "goal_2": "A man tries dancing atop a table.",
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a group of people standing around a fire, with smoke billowing from it. The camera pans around the area, showing the smoke spreading and people walking around. The video also shows a car driving down the street with smoke following it.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows people engaging in a fire-related activity, which is not a common sight in everyday life. The smoke spreading and people walking around add to the unusual nature of the video.</s>"
+    },
+    "Classic Redneck Waterslide - Throwback Fails (July 2017)11": {
+        "t": [
+            7.109184
+        ],
+        "duration": 10.25,
+        "path": "Classic Redneck Waterslide - Throwback Fails (July 2017)11.mp4",
+        "failure": 1,
+        "wentwrong_1": "Pushed friend through the door onto the ground",
+        "goal_1": "Don't know",
+        "wentwrong_2": "The door opens and they both fall over.",
+        "goal_2": "A girl is shoving a girl.",
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows two girls playing rock paper scissors in a room. One of the girls is wearing a red shirt and the other is wearing a black shirt. They are both laughing and having fun.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows two girls playing rock paper scissors in a room. This is not a typical activity that one would expect to see in a video.</s>"
+    },
+    "Best Fails of the Year 2017 - Part 1 (December 2017) _ FailArmy25": {
+        "t": [
+            8.220628
+        ],
+        "duration": 17.875,
+        "path": "Best Fails of the Year 2017 - Part 1 (December 2017) _ FailArmy25.mp4",
+        "failure": 1,
+        "wentwrong_1": "The woman's hair catches fire.",
+        "goal_1": "The woman wants to provide a hair tutorial.",
+        "wentwrong_2": "Her hair caught fire while she was filming.",
+        "goal_2": "To video herself straightening her hair.",
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a woman in a room ironing her clothes while talking to the camera. She then proceeds to iron a shirt while still speaking to the camera.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows a woman ironing her clothes while talking to the camera, which is not a typical activity.</s>"
+    },
+    "The Wheels Are Coming Off! - Throwback Fails (December 2017) _ FailArmy35": {
+        "t": [
+            -1.0
+        ],
+        "duration": 4.375,
+        "path": "The Wheels Are Coming Off! - Throwback Fails (December 2017) _ FailArmy35.mp4",
+        "failure": 0,
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a man practicing his batting skills in a baseball field. He is seen swinging a baseball bat and hitting a ball. The video also shows him running around the field.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows the man swinging a baseball bat and hitting a ball, which is not a common activity in everyday life.</s>"
+    },
+    "It's All Down Hill From Here - Throwback Fails (August 2017)92": {
+        "t": [
+            2.785702
+        ],
+        "duration": 6.75,
+        "path": "It's All Down Hill From Here - Throwback Fails (August 2017)92.mp4",
+        "failure": 1,
+        "wentwrong_1": "the guy falls forward and hits his ribs on the bar",
+        "goal_1": "to do a handstand on the parallel bars",
+        "wentwrong_2": "Messes up and falls on face",
+        "goal_2": "Perform a balancing exercise",
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a man performing various gymnastic moves on a bar, including a handstand. There is also a young girl playing with a toy in the background.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows a man performing gymnastic moves on a bar, which is not a common activity in everyday life.</s>"
+    },
+    "FailFactory - No Pain, No Gain (Workout Fails)20": {
+        "t": [
+            3.392273
+        ],
+        "duration": 8.375,
+        "path": "FailFactory - No Pain, No Gain (Workout Fails)20.mp4",
+        "failure": 1,
+        "wentwrong_1": "doesnt do it right, and wipes out",
+        "goal_1": "a guy is doing jump rope and tries to do a backflip",
+        "wentwrong_2": "He fell trying to backflip.",
+        "goal_2": "The goal was to backflip.",
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a man performing various exercises in a gym. He is seen doing pull-ups on a bar, jumping rope, and doing a handstand on a rope.\n\nAnswer with Explanation: Yes. The video contains unusual activities such as the man doing a handstand on a rope and jumping rope. These activities are not typically seen in a gym setting and add an element of excitement and challenge to the workout routine.</s>"
+    },
+    "The Ultimate Funny Monkey Compilation _ Monkey Fails by FailArmy49": {
+        "t": [
+            -1.0
+        ],
+        "duration": 8.25,
+        "path": "The Ultimate Funny Monkey Compilation _ Monkey Fails by FailArmy49.mp4",
+        "failure": 0,
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a tree with no leaves and a bird perched on it. The bird is seen walking along the branches and then sitting on the tree. The video also shows a bird flying over the tree.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows a bird perched on a tree with no leaves, which is not a common sight. Additionally, the bird is seen walking along the branches and sitting on the tree, which are also unusual activities.</s>"
+    },
+    "The Ultimate Funny Monkey Compilation _ Monkey Fails by FailArmy4": {
+        "t": [
+            0.567928
+        ],
+        "duration": 4.5,
+        "path": "The Ultimate Funny Monkey Compilation _ Monkey Fails by FailArmy4.mp4",
+        "failure": 1,
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a monkey walking on a wooden deck and then jumping down. The monkey is also seen walking on a wooden staircase and a wooden fence.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows a monkey walking on a wooden deck and then jumping down. This is not a normal activity for a monkey to do.</s>"
+    },
+    "Grandmas vs Grandpas - FailArmy Versus (December 2017) _ FailArmy0": {
+        "t": [
+            5.370338
+        ],
+        "duration": 6.875,
+        "path": "Grandmas vs Grandpas - FailArmy Versus (December 2017) _ FailArmy0.mp4",
+        "failure": 1,
+        "wentwrong_1": "She lost her balance and fell.",
+        "goal_1": "The gran wanted to play hop scotch with the child.",
+        "wentwrong_2": "Grandma ended up falling over onto the concrete",
+        "goal_2": "Grandma was playing hopscotch",
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a woman and a little girl standing outside a house. The woman is wearing a white shirt and blue jeans, while the little girl is wearing a red and black checkered shirt and blue jeans. The woman is holding the little girl's hand and they are both walking on the sidewalk. The little girl is also seen walking on the sidewalk alone.\n    Answer with Explanation: No.</s>"
+    },
+    "FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy68": {
+        "t": [
+            3.252769
+        ],
+        "duration": 6.125,
+        "path": "FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy68.mp4",
+        "failure": 1,
+        "wentwrong_1": "She fell too fast and far, so when she landed and hit her face on the ground.",
+        "goal_1": "The girl tried to jump out of a high window.",
+        "wentwrong_2": "they go to the ground, and wipe out bad",
+        "goal_2": "a boy tries to jump out of a window",
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a man performing a backflip off a garage roof. He lands on his back on the ground. The video also shows a man riding a motorcycle down a dirt road.\n\nAnswer with Explanation: Yes. The video contains unusual activities such as the man performing a backflip off a garage roof, which is not a common activity.</s>"
+    },
+    "Best Fails of the Week 3 May 2016 _ FailArmy15": {
+        "t": [
+            1.554927
+        ],
+        "duration": 3.5,
+        "path": "Best Fails of the Week 3 May 2016 _ FailArmy15.mp4",
+        "failure": 1,
+        "wentwrong_1": "a toy car hit a guy in his head",
+        "goal_1": "Don't know",
+        "wentwrong_2": "She hit a person with the car",
+        "goal_2": "She was driving a rc vehicle",
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a man performing tricks on roller blades in a skate park. He is seen jumping over a ramp and doing tricks on the ground.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows a man performing tricks on roller blades in a skate park.</s>"
+    },
+    "Throwback Fails - Everybody Sing!! (February 2018) _ FailArmy1": {
+        "t": [
+            -1.0
+        ],
+        "duration": 6.625,
+        "path": "Throwback Fails - Everybody Sing!! (February 2018) _ FailArmy1.mp4",
+        "failure": 0,
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a man standing on a boat and talking to the camera. Later, he is seen riding on the boat with others. The video also shows a man in a grey hoodie standing on the boat and talking to the camera.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows a man in a grey hoodie standing on the boat and talking to the camera. This is not a normal activity as people usually do not stand on boats and talk to the camera.</s>"
+    },
+    "Fails of the Week (March 2017) _ FailArmy39": {
+        "t": [
+            -1.0
+        ],
+        "duration": 5.5,
+        "path": "Fails of the Week (March 2017) _ FailArmy39.mp4",
+        "failure": 0,
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a man fixing a tire on a car while a woman walks in and out of frame. The man then proceeds to fix the tire and the woman leaves.\n\nAnswer with Explanation: Yes. The video contains unusual activities as it shows a man fixing a tire on a car while a woman walks in and out of frame. This is not a typical activity that one would expect to see in a video.</s>"
+    },
+    "Get Out Of The Way!! - FailArmy After Dark (Ep. 12)73": {
+        "t": [
+            -1.0
+        ],
+        "duration": 3.875,
+        "path": "Get Out Of The Way!! - FailArmy After Dark (Ep. 12)73.mp4",
+        "failure": 0,
+        "videollava_prompt_0": "Given a series of 8 images with following Task.\n    Task: Image captioning, Question Answering\n   \n    Come up with narration of all the images and answer of the following question.\n    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.\n   \n    Output format:\n    Narration:\n    Answer with Explanation:<Yes/No. explanation>",
+        "videollava_generation_0": "Narration: The video shows a person riding a bike down a street, a cat sitting on a counter, and a person walking down the street. The video also shows a person standing in front of a door and a cat sitting on a bed.\n\nAnswer with Explanation: Yes. The video contains unusual activities such as a person riding a bike down a street and a cat sitting on a counter. These activities are not typical and add an element of surprise to the video.</s>"
+    }
+}
