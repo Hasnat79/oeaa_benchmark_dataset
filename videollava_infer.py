@@ -67,7 +67,23 @@ def main(inp, video):
     outputs = tokenizer.decode(output_ids[0, input_ids.shape[1]:]).strip()
     print(outputs)
     return outputs
-
+def save_description(prompt, sampling_technique, description):
+        table = f"+{'-' * 30}+\n"
+        table += f"| {'Prompt':^28} |\n"
+        table += f"+{'-' * 30}+\n"
+        table += f" {prompt:^28} \n"
+        table += f"+{'-' * 30}+\n"
+        table += f"| {'Sampling Technique':^28} |\n"
+        table += f"+{'-' * 30}+\n"
+        table += f" {sampling_technique:^28} \n"
+        table += f"+{'-' * 30}+\n"
+        table += f"| {'Description':^28} |\n"
+        table += f"+{'-' * 30}+\n"
+        table += f" {description:^28} \n"
+        table += f"+{'-' * 60}+\n"
+        
+        with open('description_table.txt', 'a') as file:
+            file.write(table)
 
 if __name__ == '__main__':
     
@@ -109,6 +125,7 @@ if __name__ == '__main__':
     #select a prompt from the prompts list
     prompt = prompts[0]    
     description = main(prompt,oops_sample_video)
+    save_description(prompt, 'uniform_sampling', description)
     print(description)
 
 

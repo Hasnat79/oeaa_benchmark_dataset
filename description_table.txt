@@ -1,0 +1,23 @@
++------------------------------+
+|            Prompt            |
++------------------------------+
+| Given a series of 8 images with following Task.
+    Task: Image captioning, Question Answering
+   
+    Come up with narration of all the images and answer of the following question.
+    Question: Does the video contain any unusual activities? Or does this video contain only normal activities? Reply 'Yes' if it contains any unusual activities. Otherwise, reply 'No' if it contains only normal activities.
+   
+    Output format:
+    Narration:
+    Answer with Explanation:<Yes/No. explanation> |
++------------------------------+
+|      Sampling Technique      |
++------------------------------+
+|       uniform_sampling       |
++------------------------------+
+|         Description          |
++------------------------------+
+| Narration: The video shows a little girl wearing a purple costume and a wig, standing on a stage and singing into a microphone. She is accompanied by a man who is playing the keyboard. The girl is wearing a wand in her hand and is singing a song.
+
+Answer with Explanation: Yes. The video contains unusual activities as it shows a little girl wearing a costume and singing into a microphone, which is not a common activity for a child.</s> |
++------------------------------+
