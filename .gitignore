@@ -204,3 +204,5 @@ experiments/prompt_videollava_performance_comparison/cache_dir/models--LanguageB
 experiments/prompt_videollava_performance_comparison/cache_dir/models--LanguageBind--Video-LLaVA-7B/snapshots/0d50857822b04a6f3a7d34d1cce5065d42fc6008/pytorch_model-00001-of-00002.bin
 experiments/prompt_videollava_performance_comparison/cache_dir/models--LanguageBind--Video-LLaVA-7B/snapshots/0d50857822b04a6f3a7d34d1cce5065d42fc6008/pytorch_model-00002-of-00002.bin
 experiments/prompt_videollava_performance_comparison/cache_dir/models--LanguageBind--Video-LLaVA-7B/snapshots/0d50857822b04a6f3a7d34d1cce5065d42fc6008/pytorch_model.bin.index.json
+videollava
+.vscode/settings.json
