@@ -1,5 +1,0 @@
-- In this experiment, we will try three methods on videolalva over 1/10th data of oops bench mark. (due to SU constraints)
-    - Method 1 - Use VideoLLaVA only (prompt 1)
-    - Method 2 - Use VideoLLaVA only (prompt 2) - [baseline exp prompt]
-    - Method 3 - Use VideoLLaVA only (prompt 3: O-ctritique+Prompt 2)
-- we will generate quantitative metrics for detection task and explanation task 
