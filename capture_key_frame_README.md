@@ -7,7 +7,10 @@ This repo comprises the development codes for a benchmark dataset for open ended
     - currently sampling uniformly
         - ```bash 
             frame_id_list = np.linspace(0, duration-1, num_frames, dtype=int)```
-- Objective
+    - Environment setup: 
+        - ```bash 
+            conda env create -f videollava_env.yml``` 
+    - Objective
     - We have to change the sampling technique 
     - Sampling idea: 
         - reference paper [ZeroCap](https://arxiv.org/abs/2111.14447)
