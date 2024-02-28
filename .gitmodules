@@ -1,6 +1,7 @@
 [submodule "experiments/videollava_oops_benchmark/videollava"]
 	path = experiments/videollava_oops_benchmark/videollava
 	url = https://github.com/PKU-YuanGroup/Video-LLaVA
-[submodule "/scratch/user/hasnat.md.abdullah/oeaa_benchmark_dataset/experiments/prompt_videollava_performance_comparison/llama"]
-	path = /scratch/user/hasnat.md.abdullah/oeaa_benchmark_dataset/experiments/prompt_videollava_performance_comparison/llama
+
+[submodule "/scratch/user/hasnat.md.abdullah/oeaa_benchmark_dataset/experiments/prompt_videollava_performance_comparison/llama2"]
+	path = /scratch/user/hasnat.md.abdullah/oeaa_benchmark_dataset/experiments/prompt_videollava_performance_comparison/llama2
 	url = https://github.com/facebookresearch/llama

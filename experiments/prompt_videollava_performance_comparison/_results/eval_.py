@@ -179,9 +179,9 @@ def cal_bert_score(reference, candidate, tokenizer, model):
     return similarity[0][0]
 
 def get_prediction(v, i):
-    if "Yes. The" in v[f'videollava_generation_{i}'] or "Yes.</s>" in v[f'videollava_generation_{i}']:
+    if " Yes, the" in v[f'videollava_gen{i}_llama2_generation'] :
         return 1
-    elif "No. The" in v[f'videollava_generation_{i}'] or "No.</s>" in v[f'videollava_generation_{i}']:
+    elif "No, the" in v[f'videollava_gen{i}_llama2_generation'] :
         return 0
     else:
         return None
@@ -226,7 +226,7 @@ if __name__ == "__main__":
     }
 
 
-    for i in range(3): #three prompts
+    for i in range(3,4): #three prompts
         file_name = f"./p{i}_videollava_x_oops_baseline_res.json"
         merged_res = load_json(file_name)
         metrics['prompt'].append(merged_res[list(merged_res.keys())[0]][f'videollava_prompt_{i}'])
@@ -235,7 +235,7 @@ if __name__ == "__main__":
         for k,v in merged_res.items():
             prediction = get_prediction(v, i)
             if prediction is None:
-                missing_predictions[k] = v[f'videollava_generation_{i}']
+                missing_predictions[k] = v[f'videollava_gen{i}_llama2_generation']
             else:
                 v['pred_failure'] = prediction
 
@@ -261,8 +261,10 @@ if __name__ == "__main__":
                 # candidate_tokens = v['videollava_generation_1'].split()
                 
                 # only narration is used to calculate    
-                candidate_tokens = v[f'videollava_generation_{i}'].split("Answer with Explanation: ")[0].split()
-                
+                # candidate_tokens = v[f'videollava_generation_{i}'].split("Answer with Explanation: ")[0].split()
+                # print(v[f'videollava_gen{i}_llama2_generation'].split(".\n"))
+
+                candidate_tokens =v[f'videollava_gen{i}_llama2_generation'].split()
                 cider_scores.append(cal_cider_score(reference, candidate_tokens))
 
 

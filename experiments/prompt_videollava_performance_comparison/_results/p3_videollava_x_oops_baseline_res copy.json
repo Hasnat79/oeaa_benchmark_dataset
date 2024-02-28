@@ -1,0 +1,514 @@
+{
+    "The Wheels Are Coming Off! - Throwback Fails (December 2017) _ FailArmy29": {
+        "t": [
+            3.873003
+        ],
+        "duration": 8.625,
+        "path": "The Wheels Are Coming Off! - Throwback Fails (December 2017) _ FailArmy29.mp4",
+        "failure": 1,
+        "wentwrong_1": "The rope bounces too hard and the man falls over.",
+        "goal_1": "A man is jumping on a stretched rope.",
+        "wentwrong_2": "He lost his balance and fell onto the ground.",
+        "goal_2": "A man was balancing on a slack line.",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man walking on a rope while a dog walks on the rope behind him. The man falls off the rope, and the dog continues to walk on the rope.</s>"
+    },
+    "Fails of the Week 4 September 2016 _ FailArmy27": {
+        "t": [
+            2.60905
+        ],
+        "duration": 5.5,
+        "path": "Fails of the Week 4 September 2016 _ FailArmy27.mp4",
+        "failure": 1,
+        "wentwrong_1": "The boy falls onto the stick and hurts himself in the groin.",
+        "goal_1": "A boy tries to use a Pogo stick.",
+        "wentwrong_2": "He ended up hitting the pogo stick into his groin area",
+        "goal_2": "The boy was playing with the pogo stick",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a young boy playing with a blue plastic pipe in his backyard. He is seen kneeling down and pushing the pipe along the ground. The boy then stands up and pushes the pipe again. He continues to play with the pipe, pushing it along the ground and moving it around. The video captures the boy's playful and imaginative nature as he explores his surroundings and finds ways to have fun. The backyard setting provides a safe and comfortable environment for the boy to play and experiment with his surroundings. Overall, the video showcases the joy and freedom of childhood play.</s>"
+    },
+    "Throwback Fails - Jump Around! (March 2018) _ FailArmy22": {
+        "t": [
+            4.512474
+        ],
+        "duration": 9.5,
+        "path": "Throwback Fails - Jump Around! (March 2018) _ FailArmy22.mp4",
+        "failure": 1,
+        "wentwrong_1": "He tripped and fell off his skis and into the dirt.",
+        "goal_1": "A person was trying to ski on dirt.",
+        "wentwrong_2": "He got stuck and ended up rolling down the hill",
+        "goal_2": "The guy was trying to skii down the hill",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man in a yellow jacket and green hat walking up a snowy hill while carrying a sled. He then sleds down the hill, and another person in a green jacket and yellow hat joins him. They both sled down the hill together.</s>"
+    },
+    "Throwback Fails - Jump Around! (March 2018) _ FailArmy21": {
+        "t": [
+            2.88849
+        ],
+        "duration": 9.25,
+        "path": "Throwback Fails - Jump Around! (March 2018) _ FailArmy21.mp4",
+        "failure": 1,
+        "wentwrong_1": "He lost control of the scooter and fell",
+        "goal_1": "A man was riding a scooter down a sidewalk and tried to avoid hitting a dog",
+        "wentwrong_2": "The dog got in the way of the man and he fell.",
+        "goal_2": "Just to show the family scootering.",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man skateboarding down a sidewalk while a dog runs alongside him. The man falls down and gets back up, and the dog continues to run.</s>"
+    },
+    "Throwback Fails - Carriage Carnage (April 2018) _ FailArmy50": {
+        "t": [
+            1.477786
+        ],
+        "duration": 10.375,
+        "path": "Throwback Fails - Carriage Carnage (April 2018) _ FailArmy50.mp4",
+        "failure": 1,
+        "wentwrong_1": "the lady fell down into the grass after going down the hill",
+        "goal_1": "a mom sat on a small cart and went down a small slide",
+        "wentwrong_2": "Fell over and hit face",
+        "goal_2": "Ride down a child's slide",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a woman and a child sitting on a slide, with the woman pushing the child down the slide. The child slides down the slide and lands on the grass.</s>"
+    },
+    "It's All Down Hill From Here - Throwback Fails (August 2017)68": {
+        "t": [
+            -1.0
+        ],
+        "duration": 6.125,
+        "path": "It's All Down Hill From Here - Throwback Fails (August 2017)68.mp4",
+        "failure": 0,
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a person riding a bike down a snowy hill, while another person is skiing down the same hill. The person on the bike falls over, and the person on skis stops to help. The video also shows a person riding a snowboard down the hill.</s>"
+    },
+    "Fails of the Week (March 2017) _ FailArmy14": {
+        "t": [
+            1.002466
+        ],
+        "duration": 19.625,
+        "path": "Fails of the Week (March 2017) _ FailArmy14.mp4",
+        "failure": 1,
+        "wentwrong_1": "girl skiing fast down hill fell",
+        "goal_1": "record person skiing down hall",
+        "wentwrong_2": "She nearly hits a person and then falls in the snow.",
+        "goal_2": "A person is skiing down a snow covered hill.",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video starts with a man sitting on a snowmobile, and then he starts driving down a snowy path. As he drives, he passes by other people who are also snowmobiling. The man continues to drive down the path, passing by other people who are also snowmobiling. The video captures the thrill of snowmobiling in a beautiful winter landscape.</s>"
+    },
+    "Don't Be Such a Baby - Kid Fails (September 2018) _ FailArmy25": {
+        "t": [
+            15.420136
+        ],
+        "duration": 15.875,
+        "path": "Don't Be Such a Baby - Kid Fails (September 2018) _ FailArmy25.mp4",
+        "failure": 1,
+        "wentwrong_1": "The little girl wanted to spin but ended up falling down instead.",
+        "goal_1": "The little girl wanted to dance.",
+        "wentwrong_2": "The child spun and then fell down on the floor.",
+        "goal_2": "A child was dancing in the living room.",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a little girl dancing in a living room. She is wearing a black dress and white socks and is seen dancing in front of a couch. She is also seen playing with a Wii remote and dancing with it.</s>"
+    },
+    "Ninja Fails - Sweep The Leg! (March 2017) _ FailArmy51": {
+        "t": [
+            0.573387
+        ],
+        "duration": 8.25,
+        "path": "Ninja Fails - Sweep The Leg! (March 2017) _ FailArmy51.mp4",
+        "failure": 1,
+        "wentwrong_1": "He hits himself in the head.",
+        "goal_1": "A man practices nunchucks in his bedroom.",
+        "wentwrong_2": "He accidentally hit himself in the cheek, and then the head, with one of them.",
+        "goal_2": "A man was trying to perform a trick with nunchucks.",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man practicing martial arts in a gym. He is seen holding a stick and hitting a punching bag while wearing a black shirt and black pants. The man is also seen practicing his moves in front of a mirror.</s>"
+    },
+    "FailArmy After Dark - That's Got to Sting (Ep. 6)128": {
+        "t": [
+            1.498735
+        ],
+        "duration": 7.375,
+        "path": "FailArmy After Dark - That's Got to Sting (Ep. 6)128.mp4",
+        "failure": 1,
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a woman lying on the floor and talking to the camera. She then proceeds to do sit-ups while continuing to talk.</s>"
+    },
+    "FailFactory - No Pain, No Gain (Workout Fails)122": {
+        "t": [
+            6.91426
+        ],
+        "duration": 8.0,
+        "path": "FailFactory - No Pain, No Gain (Workout Fails)122.mp4",
+        "failure": 1,
+        "wentwrong_1": "he jumped up and then didnt catch back on and fell",
+        "goal_1": "to do pullups and punch the ceiling while doing so",
+        "wentwrong_2": "man lost his grip and fell onto the ground",
+        "goal_2": "man was trying to do jumping pull ups",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man performing various exercises in a garage gym. He starts by hanging from a bar and then proceeds to do pull-ups. He then moves on to do dips and push-ups on the bar. The man's movements are fluid and controlled, indicating that he is experienced in weightlifting. The garage gym is well-equipped with a variety of weights and equipment, and the man seems to be using them all to work on his upper body strength. The lighting in the gym is bright, and the walls are painted in a neutral color, which creates a clean and professional atmosphere. Overall, the video showcases a man's dedication to his fitness routine and his commitment to improving his physical strength.</s>"
+    },
+    "FailArmy After Dark - Say It, Don't Spray It (Ep. 7)107": {
+        "t": [
+            -1.0
+        ],
+        "duration": 4.75,
+        "path": "FailArmy After Dark - Say It, Don't Spray It (Ep. 7)107.mp4",
+        "failure": 0,
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a group of people gathered in a large room, with some standing and others sitting. A woman is seen dancing in the middle of the room, while others watch and enjoy the music. The atmosphere is lively and energetic, with people chatting and laughing with one another. The room is well-lit, and the decorations are tasteful and elegant. The video captures the joy and excitement of the event, with people enjoying each other's company and the music.</s>"
+    },
+    "Mom's Going To Be Mad - Throwback Fails (June 2017) _ FailArmy107": {
+        "t": [
+            4.248028
+        ],
+        "duration": 5.125,
+        "path": "Mom's Going To Be Mad - Throwback Fails (June 2017) _ FailArmy107.mp4",
+        "failure": 1,
+        "wentwrong_1": "The items landed away from the safe zone.",
+        "goal_1": "Don't know",
+        "wentwrong_2": "the cat falls down and people dont catch it",
+        "goal_2": "man tries to get cat off tree",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man and two women standing on a diving board. The man is holding a hose and spraying water on the women, who are laughing and enjoying themselves. The man then sprays water on the ground, and the women continue to laugh and play around.</s>"
+    },
+    "Funny Animal Fails - Just In Time For Election 2016 _ Fail Army29": {
+        "t": [
+            -1.0
+        ],
+        "duration": 6.25,
+        "path": "Funny Animal Fails - Just In Time For Election 2016 _ Fail Army29.mp4",
+        "failure": 0,
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video features a group of deer in a fenced area, with one of them looking directly at the camera. The deer then begins to speak to the camera, and the camera zooms in on the deer's face. The deer continues to speak to the camera, and the camera zooms out to show the entire group of deer. The deer then turns its head and looks away from the camera. The video captures the natural behavior of deer in a fenced area, with the deer interacting with the camera and each other. The close-up shots of the deer's face provide a unique perspective on the animals, and the zooming in and out of the camera adds to the immersive experience. Overall, the video is a fascinating glimpse into the lives of deer in a controlled environment.</s>"
+    },
+    "FailArmy After Dark - Party On!  (Ep. 3)172": {
+        "t": [
+            1.422439
+        ],
+        "duration": 7.0,
+        "path": "FailArmy After Dark - Party On!  (Ep. 3)172.mp4",
+        "failure": 1,
+        "wentwrong_1": "The wave hit them straight on and the boat capsized.",
+        "goal_1": "The goal was to ride the wave.",
+        "wentwrong_2": "The waves takes him for a ride and washes his boat away as well.",
+        "goal_2": "A person tries to jump into a wave as it approaches.",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man riding a small yellow raft in the ocean, with a large wave crashing in the background. The man is seen paddling the raft and trying to stay upright as the waves become more intense. The video captures the thrill and excitement of riding waves in the ocean.</s>"
+    },
+    "Throwback Fails - Jump Around! (March 2018) _ FailArmy38": {
+        "t": [
+            3.787579
+        ],
+        "duration": 7.625,
+        "path": "Throwback Fails - Jump Around! (March 2018) _ FailArmy38.mp4",
+        "failure": 1,
+        "wentwrong_1": "The child ends up going through some leaves on a tree.",
+        "goal_1": "A child wants to take a ride on a man's shoulders.",
+        "wentwrong_2": "The child hit some tree branches with his face",
+        "goal_2": "A dad is playing with a child sitting on his shoulders",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man holding a baby in a park. The man is wearing a black hat and glasses, and he is seen holding the baby in different positions. The baby is also seen holding a tree branch and a black hat. The man is seen smiling and talking to the camera while holding the baby.</s>"
+    },
+    "FailArmy's Got Talent (October 2017) _ FailArmy12": {
+        "t": [
+            4.36713
+        ],
+        "duration": 8.625,
+        "path": "FailArmy's Got Talent (October 2017) _ FailArmy12.mp4",
+        "failure": 1,
+        "wentwrong_1": "Did a spin and fell off.",
+        "goal_1": "Dancing on a barrel.",
+        "wentwrong_2": "He loses balance and falls off of the barrel",
+        "goal_2": "A man is dancing on a plastic barrel",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man performing a handstand on a barrel in a large field. He then flips off the barrel and lands on his back. The man is seen in various positions throughout the video, including standing on a barrel, sitting on a barrel, and standing on a blue barrel. The video also shows a man in a blue shirt standing on a barrel and a man in a white shirt standing on a barrel.</s>"
+    },
+    "Fails of the Month (December 2016) _ FailArmy38": {
+        "t": [
+            -1.0
+        ],
+        "duration": 6.125,
+        "path": "Fails of the Month (December 2016) _ FailArmy38.mp4",
+        "failure": 0,
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video starts with a person riding a bike down a dirt road, and then it shows several people riding bikes down a dirt trail. The camera captures the riders from different angles, and the video ends with a person riding a bike down a dirt road.</s>"
+    },
+    "The Summer of Fails - Fails of the Week (July 2018) _ FailArmy38": {
+        "t": [
+            -1.0
+        ],
+        "duration": 54.0,
+        "path": "The Summer of Fails - Fails of the Week (July 2018) _ FailArmy38.mp4",
+        "failure": 0,
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows two men sitting in a car, with one of them driving and the other one singing along to the music. They are both wearing seat belts and the car is moving on a highway. The driver is wearing a black t-shirt and the other man is wearing a green t-shirt. The driver is also wearing a seat belt. The car is moving at a moderate speed, and the highway is surrounded by trees and buildings. The driver is using the steering wheel to control the car, and the other man is singing along to the music. The car is moving smoothly on the highway, and the driver is maintaining a safe speed. The video captures the fun and excitement of the two men as they enjoy their ride together.</s>"
+    },
+    "Best Fails of the Week 3 February 2016 _ 'I'm OK, Wheres my Jetski!'FailArmy38": {
+        "t": [
+            6.359369
+        ],
+        "duration": 10.875,
+        "path": "Best Fails of the Week 3 February 2016 _ 'I'm OK, Wheres my Jetski!'FailArmy38.mp4",
+        "failure": 1,
+        "wentwrong_1": "It falls on top of the man",
+        "goal_1": "Trying too put the satellite on the truck",
+        "wentwrong_2": "the object end ups falling to the ground.",
+        "goal_2": "someone is trying to push the top of some sort of very large object",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man walking down the street while a large fan is spinning in the background. The man then runs into the street and is hit by the fan.</s>"
+    },
+    "Fails of the Month - Failure In Full Force (January 2017) _ FailArmy39": {
+        "t": [
+            3.262535
+        ],
+        "duration": 3.75,
+        "path": "Fails of the Month - Failure In Full Force (January 2017) _ FailArmy39.mp4",
+        "failure": 1,
+        "wentwrong_1": "The cat falls off the box.",
+        "goal_1": "A cat is on a box of papers.",
+        "wentwrong_2": "The cat falls off the table.",
+        "goal_2": "A cat tries to tilt sideways to see something.",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a cat sitting on a bed next to a book. The cat then jumps onto the book and starts walking on it. The cat continues to walk on the book while looking around.</s>"
+    },
+    "It's All Down Hill From Here - Throwback Fails (August 2017)70": {
+        "t": [
+            8.69423
+        ],
+        "duration": 11.125,
+        "path": "It's All Down Hill From Here - Throwback Fails (August 2017)70.mp4",
+        "failure": 1,
+        "wentwrong_1": "The contraption fell apart on the ramp.",
+        "goal_1": "Some people were rolling a guy in a flaming contraption down a ramp.",
+        "wentwrong_2": "The sled tips over halfway down the hill and the person falls out",
+        "goal_2": "There is someone trying to ride a sled that's on fire down a snowy hill",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man in a black shirt and white shorts walking on a stage while a crowd watches. He then walks towards a man in a purple shirt and hugs him. The man in the black shirt then walks towards a man in a white shirt and hugs him. The man in the black shirt then walks towards a man in a red shirt and hugs him. The man in the black shirt then walks towards a man in a white shirt and hugs him. The man in the black shirt then walks towards a man in a yellow shirt and hugs him. The man in the black shirt then walks towards a man in a blue shirt and hugs him. The man in the black shirt then walks towards a man in a white shirt and hugs him. The man in the black shirt then walks towards a man in a red shirt and hugs him. The man in the black shirt then walks towards a man in a yellow shirt and hugs him. The man in the black shirt then walks towards a man in a blue shirt and hugs him. The man in the black shirt then walks towards a man in a white shirt and hugs him. The man in the black shirt then walks towards a man in a red shirt and hugs him. The man in the black shirt then walks towards a man in a yellow shirt and hugs him. The man in the black shirt then walks towards a man in a blue shirt and hugs him. The man in the black shirt then walks towards a man in a white shirt and hugs him. The man in the black shirt then walks towards a man in a red shirt and hugs him. The man in the black shirt then walks towards a man in a yellow shirt and hugs him. The man in the black shirt then walks towards a man in a blue shirt and hugs him. The man in the black shirt then walks towards a man in a white shirt and hugs him. The man in the black shirt then walks towards a man in a red shirt and hugs him. The man in the black shirt then walks towards a man in a yellow shirt and hugs him. The man in the black shirt then walks towards a man in a blue shirt and hugs him. The man in the black shirt then walks towards a man in a white shirt and hugs him. The man in the black shirt then walks towards a man in a red shirt and hugs him. The man in the black shirt then walks towards a man in a yellow shirt and hugs him. The man in the black shirt then walks towards a man in a blue shirt and hugs him. The man in the black shirt then walks towards a man in a white shirt and hugs him. The man in the black shirt then walks towards a man in a red shirt and hugs him. The man in the black shirt then walks towards a man in a yellow shirt and hugs him. The man in the black shirt then walks towards a man in a blue shirt and hugs him. The man in the black shirt then walks towards a man in a white shirt and hugs him. The man in the black shirt then walks towards a man in a red shirt and hugs him. The man in the black shirt then walks towards a man in a yellow shirt and hugs him. The man in the black shirt then walks towards a man in a blue shirt and hugs him. The man in the black shirt then walks towards a man in a white shirt and hugs him. The man in the black shirt then walks towards a man in a red shirt and hugs him. The man in the black shirt then walks towards a man in a yellow shirt and hugs him. The man in the black shirt then walks towards a man in a blue shirt and hugs him. The man in the black shirt then walks towards a man in a white shirt and hugs him. The man in the black shirt then walks towards a man in a red shirt and hugs him. The man in the black shirt then walks towards a man in a yellow shirt and hugs him. The man in the black shirt then walks towards a man in a blue shirt and hugs him. The man in the black shirt then walks towards a man in a white shirt and hugs him. The man in the black shirt then walks towards a man in a red"
+    },
+    "Throwback Fails - Jump Around! (March 2018) _ FailArmy36": {
+        "t": [
+            3.398191
+        ],
+        "duration": 4.625,
+        "path": "Throwback Fails - Jump Around! (March 2018) _ FailArmy36.mp4",
+        "failure": 1,
+        "wentwrong_1": "child gets hit in the face with it",
+        "goal_1": "man shoots child with nerf gun",
+        "wentwrong_2": "The bullet went in the childs eye.",
+        "goal_2": "Play toy guns with a kid.",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a young boy playing with a toy gun in a living room. He then goes outside and shoots a BB gun at a fish in a pond. The boy is seen laughing and enjoying himself while playing with the gun.</s>"
+    },
+    "Best Fails of the Week - The Eagles Are Champs!! (February 2018) _ FailArmy14": {
+        "t": [
+            3.524448
+        ],
+        "duration": 24.0,
+        "path": "Best Fails of the Week - The Eagles Are Champs!! (February 2018) _ FailArmy14.mp4",
+        "failure": 1,
+        "wentwrong_1": "They missed the sled and slid down on their belly.",
+        "goal_1": "A child tried to slide on a sled down a snow mountain.",
+        "wentwrong_2": "The boy fell and rolled down the hill.",
+        "goal_2": "A boy was trying to sled down a mountain of snow.",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man in a green jacket and black pants walking in the snow. He is holding an orange surfboard and is seen walking towards a pile of wood. The man then picks up an ax and starts chopping the wood. He continues chopping the wood while the camera captures his movements. The man seems to be enjoying the activity as he smiles while chopping the wood. The video captures the serene and peaceful atmosphere of the snowy landscape, with the sound of the ax hitting the wood and the crunching of the snow underfoot. The man's movements are deliberate and precise, indicating that he is experienced in this activity. Overall, the video showcases the man's skill in chopping wood in the snowy environment, and the peacefulness of the surroundings.</s>"
+    },
+    "Best Fails of the Week - The Eagles Are Champs!! (February 2018) _ FailArmy18": {
+        "t": [
+            4.195557
+        ],
+        "duration": 7.375,
+        "path": "Best Fails of the Week - The Eagles Are Champs!! (February 2018) _ FailArmy18.mp4",
+        "failure": 1,
+        "wentwrong_1": "The guy falls over.",
+        "goal_1": "A guy is doing tricks with a hoop.",
+        "wentwrong_2": "The man accidentally fell.",
+        "goal_2": "To spin around on the big hoop.",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video features a man performing tricks with a hula hoop in a room. He starts by spinning the hoop around his waist and then moves on to spinning it around his neck. He then proceeds to spin the hoop around his entire body while maintaining his balance. The man's movements are fluid and graceful, and he appears to be enjoying himself as he performs these impressive tricks. The room in which he is performing is well-lit, and there are no other people or objects visible in the frame. Overall, the video showcases the man's impressive hula hoop skills and his ability to perform complex tricks with the hoop.</s>"
+    },
+    "FailFactory - No Pain, No Gain (Workout Fails)153": {
+        "t": [
+            5.730334
+        ],
+        "duration": 8.25,
+        "path": "FailFactory - No Pain, No Gain (Workout Fails)153.mp4",
+        "failure": 1,
+        "wentwrong_1": "Man did not give himself enough time to clap and fell back down.",
+        "goal_1": "To do a push up with a clap.",
+        "wentwrong_2": "He falls on his face.",
+        "goal_2": "A man is trying to do push ups.",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man attempting to perform a handstand on a chair, but he fails and falls to the ground.</s>"
+    },
+    "Get Out Of The Way!! - FailArmy After Dark (Ep. 12)13": {
+        "t": [
+            0.0
+        ],
+        "duration": 7.625,
+        "path": "Get Out Of The Way!! - FailArmy After Dark (Ep. 12)13.mp4",
+        "failure": 1,
+        "wentwrong_1": "A person hit a water tank that began spraying water everywhere.",
+        "goal_1": "Don't know",
+        "wentwrong_2": "A canister spinds around and trips him.",
+        "goal_2": "A man tries dancing atop a table.",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a group of people standing around a wooden stump, with smoke coming out of it. The smoke is so thick that it is almost impossible to see anything. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like"
+    },
+    "Classic Redneck Waterslide - Throwback Fails (July 2017)11": {
+        "t": [
+            7.109184
+        ],
+        "duration": 10.25,
+        "path": "Classic Redneck Waterslide - Throwback Fails (July 2017)11.mp4",
+        "failure": 1,
+        "wentwrong_1": "Pushed friend through the door onto the ground",
+        "goal_1": "Don't know",
+        "wentwrong_2": "The door opens and they both fall over.",
+        "goal_2": "A girl is shoving a girl.",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows two girls in a room, where one of them is dancing while the other is watching. The dancing girl then starts to dance with a third girl who enters the room. The two girls continue to dance while the third girl watches.</s>"
+    },
+    "Best Fails of the Year 2017 - Part 1 (December 2017) _ FailArmy25": {
+        "t": [
+            8.220628
+        ],
+        "duration": 17.875,
+        "path": "Best Fails of the Year 2017 - Part 1 (December 2017) _ FailArmy25.mp4",
+        "failure": 1,
+        "wentwrong_1": "The woman's hair catches fire.",
+        "goal_1": "The woman wants to provide a hair tutorial.",
+        "wentwrong_2": "Her hair caught fire while she was filming.",
+        "goal_2": "To video herself straightening her hair.",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video features a woman who is seen brushing her hair while talking to the camera. She then proceeds to brush her teeth and continues to talk to the camera. The woman is seen in different positions throughout the video, including sitting on the floor and standing in front of a mirror.</s>"
+    },
+    "The Wheels Are Coming Off! - Throwback Fails (December 2017) _ FailArmy35": {
+        "t": [
+            -1.0
+        ],
+        "duration": 4.375,
+        "path": "The Wheels Are Coming Off! - Throwback Fails (December 2017) _ FailArmy35.mp4",
+        "failure": 0,
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man holding a baseball bat and swinging it around. He then hits a ball and walks away.</s>"
+    },
+    "It's All Down Hill From Here - Throwback Fails (August 2017)92": {
+        "t": [
+            2.785702
+        ],
+        "duration": 6.75,
+        "path": "It's All Down Hill From Here - Throwback Fails (August 2017)92.mp4",
+        "failure": 1,
+        "wentwrong_1": "the guy falls forward and hits his ribs on the bar",
+        "goal_1": "to do a handstand on the parallel bars",
+        "wentwrong_2": "Messes up and falls on face",
+        "goal_2": "Perform a balancing exercise",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man performing a gymnastics routine on a bar. He starts by swinging on the bar and then does a handstand. He then swings on the bar again and does a flip. The man continues to swing on the bar and does a few more flips. Finally, he jumps off the bar and lands on the ground.</s>"
+    },
+    "FailFactory - No Pain, No Gain (Workout Fails)20": {
+        "t": [
+            3.392273
+        ],
+        "duration": 8.375,
+        "path": "FailFactory - No Pain, No Gain (Workout Fails)20.mp4",
+        "failure": 1,
+        "wentwrong_1": "doesnt do it right, and wipes out",
+        "goal_1": "a guy is doing jump rope and tries to do a backflip",
+        "wentwrong_2": "He fell trying to backflip.",
+        "goal_2": "The goal was to backflip.",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man performing various exercises in a gym. He starts by doing pull-ups on a bar, then moves on to sit-ups on the floor. He then stands up and does more pull-ups on the bar. Finally, he jumps onto a set of bars and swings back and forth.</s>"
+    },
+    "The Ultimate Funny Monkey Compilation _ Monkey Fails by FailArmy49": {
+        "t": [
+            -1.0
+        ],
+        "duration": 8.25,
+        "path": "The Ultimate Funny Monkey Compilation _ Monkey Fails by FailArmy49.mp4",
+        "failure": 0,
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a tree with no leaves, and a bird is perched on it. The bird is seen walking along the branches and then flies away.</s>"
+    },
+    "The Ultimate Funny Monkey Compilation _ Monkey Fails by FailArmy4": {
+        "t": [
+            0.567928
+        ],
+        "duration": 4.5,
+        "path": "The Ultimate Funny Monkey Compilation _ Monkey Fails by FailArmy4.mp4",
+        "failure": 1,
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a monkey walking on a wooden deck and then jumping down onto the ground.</s>"
+    },
+    "Grandmas vs Grandpas - FailArmy Versus (December 2017) _ FailArmy0": {
+        "t": [
+            5.370338
+        ],
+        "duration": 6.875,
+        "path": "Grandmas vs Grandpas - FailArmy Versus (December 2017) _ FailArmy0.mp4",
+        "failure": 1,
+        "wentwrong_1": "She lost her balance and fell.",
+        "goal_1": "The gran wanted to play hop scotch with the child.",
+        "wentwrong_2": "Grandma ended up falling over onto the concrete",
+        "goal_2": "Grandma was playing hopscotch",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a woman and a little girl standing outside on a sidewalk. The woman is wearing a white shirt and blue jeans, while the little girl is wearing a red and black checkered shirt and blue jeans. The woman is holding the little girl's hand and they are both looking at the camera. The little girl then starts to dance and does a split on the sidewalk. The woman then does a split on the sidewalk as well. The video ends with the woman and the little girl walking away from the camera.</s>"
+    },
+    "FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy68": {
+        "t": [
+            3.252769
+        ],
+        "duration": 6.125,
+        "path": "FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy68.mp4",
+        "failure": 1,
+        "wentwrong_1": "She fell too fast and far, so when she landed and hit her face on the ground.",
+        "goal_1": "The girl tried to jump out of a high window.",
+        "wentwrong_2": "they go to the ground, and wipe out bad",
+        "goal_2": "a boy tries to jump out of a window",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man performing a backflip off the roof of a garage. He lands on his back on the ground, and the video ends with him getting up.</s>"
+    },
+    "Best Fails of the Week 3 May 2016 _ FailArmy15": {
+        "t": [
+            1.554927
+        ],
+        "duration": 3.5,
+        "path": "Best Fails of the Week 3 May 2016 _ FailArmy15.mp4",
+        "failure": 1,
+        "wentwrong_1": "a toy car hit a guy in his head",
+        "goal_1": "Don't know",
+        "wentwrong_2": "She hit a person with the car",
+        "goal_2": "She was driving a rc vehicle",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man wearing a blue shirt and black shorts skateboarding in a park. He is seen riding his skateboard on a ramp and performing tricks. The man is also seen riding his skateboard on a sidewalk and a street.</s>"
+    },
+    "Throwback Fails - Everybody Sing!! (February 2018) _ FailArmy1": {
+        "t": [
+            -1.0
+        ],
+        "duration": 6.625,
+        "path": "Throwback Fails - Everybody Sing!! (February 2018) _ FailArmy1.mp4",
+        "failure": 0,
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man standing on a boat, looking at the camera. He then points to the water and waves his hand. The camera then shows a person in the water, and the man on the boat laughs. The video ends with the man on the boat laughing again.</s>"
+    },
+    "Fails of the Week (March 2017) _ FailArmy39": {
+        "t": [
+            -1.0
+        ],
+        "duration": 5.5,
+        "path": "Fails of the Week (March 2017) _ FailArmy39.mp4",
+        "failure": 0,
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a woman standing next to a car, and a man is seen riding a motorcycle. The woman then gets on the motorcycle and rides it. The video also shows the woman standing in a kitchen and standing in front of a house.</s>"
+    },
+    "Get Out Of The Way!! - FailArmy After Dark (Ep. 12)73": {
+        "t": [
+            -1.0
+        ],
+        "duration": 3.875,
+        "path": "Get Out Of The Way!! - FailArmy After Dark (Ep. 12)73.mp4",
+        "failure": 0,
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video starts with a close-up shot of a bicycle, and then it transitions to a person walking into a bathroom. The camera then shows a black cat sitting on the floor, and the person walks into the bathroom. The bathroom is well-lit, and the person is wearing a white shirt. The camera then shows the person washing their hands in the sink, and the cat is still sitting on the floor. The person then walks out of the bathroom, and the camera shows the cat still sitting on the floor. The video ends with the cat still sitting on the floor.</s>"
+    }
+}

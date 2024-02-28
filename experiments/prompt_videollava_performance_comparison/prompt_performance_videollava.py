@@ -1,7 +1,7 @@
 import os
 import sys
-videollava_dir = "/scratch/user/hasnat.md.abdullah/oeaa_benchmark_dataset/experiments/videollava_oops_benchmark/videollava"
-sys.path.insert(0,videollava_dir)
+videollava_dir = "/scratch/user/hasnat.md.abdullah/oeaa_benchmark_dataset/videollava"
+sys.path.append(videollava_dir)
 # print("New working directory:", os.getcwd())
 import torch
 from videollava.constants import IMAGE_TOKEN_INDEX, DEFAULT_IMAGE_TOKEN
@@ -76,11 +76,14 @@ def main(inp, video):
     return outputs
 
 
+
+
+
 if __name__ == '__main__':
     args = parse_args()
    
     video_dir = '/scratch/user/hasnat.md.abdullah/AnomalyWatchdog/data/oops_dataset/oops_video/val/'
-    sampled_oops_file = "/scratch/user/hasnat.md.abdullah/oeaa_benchmark_dataset/experiments/prompt_videollava_performance_comparison/oops_benchmark_10_percent_data/sampled_oops_benchmark.json"
+    sampled_oops_file = "/scratch/user/hasnat.md.abdullah/oeaa_benchmark_dataset/experiments/prompt_videollava_performance_comparison/oops_benchmark_1_percent_data/sampled_oops_benchmark.json"
     sampled_oops_benchmark = load_json(sampled_oops_file)
 
     
@@ -116,19 +119,16 @@ if __name__ == '__main__':
    
 	Output format:
 	Narration:
-	Answer with Explanation:<Yes/No. explanation>"""
+	Answer with Explanation:<Yes/No. explanation>""", 
 
-
-
-
-
+    """Narrate the video"""
     ]
 
 
 
    
     print(len(sampled_oops_benchmark.keys()))
-    print(len(video_list))
+    
 
 
     prompt = prompts[args.i]    
@@ -141,21 +141,28 @@ if __name__ == '__main__':
         v[f'videollava_prompt_{args.i}'] = prompt
         v[f'videollava_generation_{args.i}'] = main(prompt,vid_file)
 
-        
+        # print(v[f'videollava_generation_{args.i}'])
         results[k]=v
-            
-        save_json(f"_results/p{args.i}_videollava_x_oops_baseline_res.json", res)
-    
 
-
-
-    # res = {}
-    # for test_vid in vid_list: 
-    #     vid = oops_benchmark[test_vid]
-    #     vid_file = video_dir+vid['path']
-    #     res[vid_file] = {"generation":main(inp,vid_file),
-    #     "prompt": inp}
         
+        
+        
+        
+        # print(results)
+        
+        save_json(f"_results/p{args.i}_videollava_x_oops_baseline_res.json", results)
+        # break
 
+
+
+    # for k,v in results.items():
+        
+    #     videollama_gen =  v[f'videollava_generation_{args.i}'].split("<")[0]
+    #     p = llm_prompts[0]+videollama_gen
+    #     v[f'llama2_videollava_generation_{args.i}']= llama2_generation(p)
+    #     print("done")
+    #     print("=====================================================")
+        
+    
     
     

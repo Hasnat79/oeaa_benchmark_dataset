@@ -1,0 +1,554 @@
+{
+    "The Wheels Are Coming Off! - Throwback Fails (December 2017) _ FailArmy29": {
+        "t": [
+            3.873003
+        ],
+        "duration": 8.625,
+        "path": "The Wheels Are Coming Off! - Throwback Fails (December 2017) _ FailArmy29.mp4",
+        "failure": 1,
+        "wentwrong_1": "The rope bounces too hard and the man falls over.",
+        "goal_1": "A man is jumping on a stretched rope.",
+        "wentwrong_2": "He lost his balance and fell onto the ground.",
+        "goal_2": "A man was balancing on a slack line.",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man walking on a rope while a dog walks on the rope behind him. The man falls off the rope, and the dog continues to walk on the rope.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains unusual activities.\nThe activity of walking on a rope is not a common or everyday activity, as it requires a high level of balance, coordination, and physical fitness. The fact that the man is able to walk on a rope while a dog walks on the same rope behind him is also unusual, as most dogs are not trained to walk on ropes.\nFurthermore, the man falling off the rope adds an element of danger and unpredictability to the activity, making it even more unusual. Overall, the combination of these unusual activities makes the video stand out and warrants the label of \"unusual.\""
+    },
+    "Fails of the Week 4 September 2016 _ FailArmy27": {
+        "t": [
+            2.60905
+        ],
+        "duration": 5.5,
+        "path": "Fails of the Week 4 September 2016 _ FailArmy27.mp4",
+        "failure": 1,
+        "wentwrong_1": "The boy falls onto the stick and hurts himself in the groin.",
+        "goal_1": "A boy tries to use a Pogo stick.",
+        "wentwrong_2": "He ended up hitting the pogo stick into his groin area",
+        "goal_2": "The boy was playing with the pogo stick",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a young boy playing with a blue plastic pipe in his backyard. He is seen kneeling down and pushing the pipe along the ground. The boy then stands up and pushes the pipe again. He continues to play with the pipe, pushing it along the ground and moving it around. The video captures the boy's playful and imaginative nature as he explores his surroundings and finds ways to have fun. The backyard setting provides a safe and comfortable environment for the boy to play and experiment with his surroundings. Overall, the video showcases the joy and freedom of childhood play.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains unusual activities.\nThe activity of playing with a blue plastic pipe in a backyard is not particularly unusual in itself, as many children engage in imaginative play with objects they find around them. However, the video's focus on the boy's playful and imaginative nature, as well as the way it captures his creativity and joy, make it stand out as unusual. The video highlights the boy's ability to find fun and excitement in something as simple as a blue plastic pipe, which is not something that is typically featured in most videos. Additionally, the backyard setting adds an extra layer of uniqueness to the video, as it provides a peaceful and safe environment for the boy to play and explore. Overall, the video's focus on the boy's creativity and imagination make it unusual compared to other videos."
+    },
+    "Throwback Fails - Jump Around! (March 2018) _ FailArmy22": {
+        "t": [
+            4.512474
+        ],
+        "duration": 9.5,
+        "path": "Throwback Fails - Jump Around! (March 2018) _ FailArmy22.mp4",
+        "failure": 1,
+        "wentwrong_1": "He tripped and fell off his skis and into the dirt.",
+        "goal_1": "A person was trying to ski on dirt.",
+        "wentwrong_2": "He got stuck and ended up rolling down the hill",
+        "goal_2": "The guy was trying to skii down the hill",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man in a yellow jacket and green hat walking up a snowy hill while carrying a sled. He then sleds down the hill, and another person in a green jacket and yellow hat joins him. They both sled down the hill together.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains unusual activities.\nThe activity of sledding down a snowy hill is not typically considered unusual, as it is a common winter recreational activity. However, the fact that the two people in the video are wearing matching yellow jackets and hats, and are sledding down the hill together, does make their activity stand out and appear unusual. It adds a touch of synchronicity and coordination to the video, which is not typically seen in everyday sledding activities."
+    },
+    "Throwback Fails - Jump Around! (March 2018) _ FailArmy21": {
+        "t": [
+            2.88849
+        ],
+        "duration": 9.25,
+        "path": "Throwback Fails - Jump Around! (March 2018) _ FailArmy21.mp4",
+        "failure": 1,
+        "wentwrong_1": "He lost control of the scooter and fell",
+        "goal_1": "A man was riding a scooter down a sidewalk and tried to avoid hitting a dog",
+        "wentwrong_2": "The dog got in the way of the man and he fell.",
+        "goal_2": "Just to show the family scootering.",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man skateboarding down a sidewalk while a dog runs alongside him. The man falls down and gets back up, and the dog continues to run.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains an unusual activity.\nThe activity of skateboarding is not particularly unusual in and of itself, but the fact that a dog is running alongside the skateboarder makes it unusual. Most dogs are not trained to run alongside skateboarders, and it may be dangerous for both the dog and the skateboarder to be doing so. Additionally, the fact that the skateboarder falls down and gets back up suggests that the activity is potentially dangerous or risky, which could also be considered unusual."
+    },
+    "Throwback Fails - Carriage Carnage (April 2018) _ FailArmy50": {
+        "t": [
+            1.477786
+        ],
+        "duration": 10.375,
+        "path": "Throwback Fails - Carriage Carnage (April 2018) _ FailArmy50.mp4",
+        "failure": 1,
+        "wentwrong_1": "the lady fell down into the grass after going down the hill",
+        "goal_1": "a mom sat on a small cart and went down a small slide",
+        "wentwrong_2": "Fell over and hit face",
+        "goal_2": "Ride down a child's slide",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a woman and a child sitting on a slide, with the woman pushing the child down the slide. The child slides down the slide and lands on the grass.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains an unusual activity.\nThe activity of pushing a child down a slide is not particularly unusual or dangerous, but it could be considered unusual in the context of the video's content. The video is described as showing a woman and a child sitting on a slide, which is not a typical activity for a video. Most videos featuring slides are likely to show people sliding down them for fun, rather than simply sitting on them. Therefore, the video's focus on sitting and pushing a child down a slide could be seen as unusual."
+    },
+    "It's All Down Hill From Here - Throwback Fails (August 2017)68": {
+        "t": [
+            -1.0
+        ],
+        "duration": 6.125,
+        "path": "It's All Down Hill From Here - Throwback Fails (August 2017)68.mp4",
+        "failure": 0,
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a person riding a bike down a snowy hill, while another person is skiing down the same hill. The person on the bike falls over, and the person on skis stops to help. The video also shows a person riding a snowboard down the hill.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains unusual activities.\nThe activity of riding a bike down a snowy hill is unusual in itself, as it is not a common or expected activity in most snowy environments. Additionally, the fact that the person on the bike falls over and the person on skis stops to help is also unusual, as it shows a level of concern and mutual aid that is not typically seen in most snowy activities. Finally, the inclusion of a person riding a snowboard down the same hill is also unusual, as it adds a third unique activity to the scene. Overall, the video contains a variety of unusual activities that are not typically seen in most snowy environments."
+    },
+    "Fails of the Week (March 2017) _ FailArmy14": {
+        "t": [
+            1.002466
+        ],
+        "duration": 19.625,
+        "path": "Fails of the Week (March 2017) _ FailArmy14.mp4",
+        "failure": 1,
+        "wentwrong_1": "girl skiing fast down hill fell",
+        "goal_1": "record person skiing down hall",
+        "wentwrong_2": "She nearly hits a person and then falls in the snow.",
+        "goal_2": "A person is skiing down a snow covered hill.",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video starts with a man sitting on a snowmobile, and then he starts driving down a snowy path. As he drives, he passes by other people who are also snowmobiling. The man continues to drive down the path, passing by other people who are also snowmobiling. The video captures the thrill of snowmobiling in a beautiful winter landscape.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains unusual activities.\nThe activity of snowmobiling in itself is not unusual, as it is a common winter sport. However, the video highlights the thrill and excitement of snowmobiling by capturing close-up shots of the man's face and body as he drives down the snowy path, giving the viewer a sense of the speed and adrenaline involved in the activity. This focus on the rider's experience makes the video stand out from other videos of snowmobiling, which may focus more on the scenery or the overall experience of the activity. Additionally, the video's use of slow-motion shots and fast-paced editing creates a sense of urgency and excitement, which is unusual in most videos of snowmobiling."
+    },
+    "Don't Be Such a Baby - Kid Fails (September 2018) _ FailArmy25": {
+        "t": [
+            15.420136
+        ],
+        "duration": 15.875,
+        "path": "Don't Be Such a Baby - Kid Fails (September 2018) _ FailArmy25.mp4",
+        "failure": 1,
+        "wentwrong_1": "The little girl wanted to spin but ended up falling down instead.",
+        "goal_1": "The little girl wanted to dance.",
+        "wentwrong_2": "The child spun and then fell down on the floor.",
+        "goal_2": "A child was dancing in the living room.",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a little girl dancing in a living room. She is wearing a black dress and white socks and is seen dancing in front of a couch. She is also seen playing with a Wii remote and dancing with it.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains unusual activities.\nThe activity of dancing in a living room is not unusual in itself, but the fact that the little girl is wearing a black dress and white socks and is playing with a Wii remote while dancing makes it stand out as unusual. The combination of these elements creates a unique and interesting visual image, which is why it can be considered unusual."
+    },
+    "Ninja Fails - Sweep The Leg! (March 2017) _ FailArmy51": {
+        "t": [
+            0.573387
+        ],
+        "duration": 8.25,
+        "path": "Ninja Fails - Sweep The Leg! (March 2017) _ FailArmy51.mp4",
+        "failure": 1,
+        "wentwrong_1": "He hits himself in the head.",
+        "goal_1": "A man practices nunchucks in his bedroom.",
+        "wentwrong_2": "He accidentally hit himself in the cheek, and then the head, with one of them.",
+        "goal_2": "A man was trying to perform a trick with nunchucks.",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man practicing martial arts in a gym. He is seen holding a stick and hitting a punching bag while wearing a black shirt and black pants. The man is also seen practicing his moves in front of a mirror.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains unusual activities.\nThe activity of practicing martial arts in a gym is not unusual in itself, but the fact that the man is holding a stick and hitting a punching bag while wearing a black shirt and black pants adds an element of unconventionality to the activity. It is not typical to see someone practicing martial arts with a stick instead of a traditional martial arts weapon like a sword or staff. Additionally, the fact that the man is practicing in front of a mirror suggests that he may be focusing on his form or technique, which is also not a typical aspect of martial arts training. Overall, the video contains unusual activities that deviate from the typical martial arts training scenario."
+    },
+    "FailArmy After Dark - That's Got to Sting (Ep. 6)128": {
+        "t": [
+            1.498735
+        ],
+        "duration": 7.375,
+        "path": "FailArmy After Dark - That's Got to Sting (Ep. 6)128.mp4",
+        "failure": 1,
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a woman lying on the floor and talking to the camera. She then proceeds to do sit-ups while continuing to talk.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains an unusual activity.\nThe activity of doing sit-ups while continuing to talk is not typically something that people do in their daily lives, especially while being filmed. It's a unique and attention-grabbing activity that stands out from the norm. Therefore, it can be considered an unusual activity in the video."
+    },
+    "FailFactory - No Pain, No Gain (Workout Fails)122": {
+        "t": [
+            6.91426
+        ],
+        "duration": 8.0,
+        "path": "FailFactory - No Pain, No Gain (Workout Fails)122.mp4",
+        "failure": 1,
+        "wentwrong_1": "he jumped up and then didnt catch back on and fell",
+        "goal_1": "to do pullups and punch the ceiling while doing so",
+        "wentwrong_2": "man lost his grip and fell onto the ground",
+        "goal_2": "man was trying to do jumping pull ups",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man performing various exercises in a garage gym. He starts by hanging from a bar and then proceeds to do pull-ups. He then moves on to do dips and push-ups on the bar. The man's movements are fluid and controlled, indicating that he is experienced in weightlifting. The garage gym is well-equipped with a variety of weights and equipment, and the man seems to be using them all to work on his upper body strength. The lighting in the gym is bright, and the walls are painted in a neutral color, which creates a clean and professional atmosphere. Overall, the video showcases a man's dedication to his fitness routine and his commitment to improving his physical strength.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains unusual activities.\nThe man in the video is performing pull-ups, which is an unusual activity compared to other exercises shown in a typical gym setting. Pull-ups are a form of upper body exercise that requires a lot of strength and control, and they are not commonly performed in a typical gym setting. Additionally, the man is doing dips and push-ups on the bar, which are also unusual exercises that are not typically performed in a garage gym. These activities make the video stand out from other fitness videos that show more traditional gym exercises."
+    },
+    "FailArmy After Dark - Say It, Don't Spray It (Ep. 7)107": {
+        "t": [
+            -1.0
+        ],
+        "duration": 4.75,
+        "path": "FailArmy After Dark - Say It, Don't Spray It (Ep. 7)107.mp4",
+        "failure": 0,
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a group of people gathered in a large room, with some standing and others sitting. A woman is seen dancing in the middle of the room, while others watch and enjoy the music. The atmosphere is lively and energetic, with people chatting and laughing with one another. The room is well-lit, and the decorations are tasteful and elegant. The video captures the joy and excitement of the event, with people enjoying each other's company and the music.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains unusual activities.\nThe unusual activity in the video is the woman dancing in the middle of the room. While dancing is a common activity at social events, the fact that the woman is dancing alone in the middle of a large room, while others watch and enjoy the music, is not a typical scenario. It adds an element of uniqueness and excitement to the video."
+    },
+    "Mom's Going To Be Mad - Throwback Fails (June 2017) _ FailArmy107": {
+        "t": [
+            4.248028
+        ],
+        "duration": 5.125,
+        "path": "Mom's Going To Be Mad - Throwback Fails (June 2017) _ FailArmy107.mp4",
+        "failure": 1,
+        "wentwrong_1": "The items landed away from the safe zone.",
+        "goal_1": "Don't know",
+        "wentwrong_2": "the cat falls down and people dont catch it",
+        "goal_2": "man tries to get cat off tree",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man and two women standing on a diving board. The man is holding a hose and spraying water on the women, who are laughing and enjoying themselves. The man then sprays water on the ground, and the women continue to laugh and play around.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains unusual activities.\nThe activity of spraying water on the women from a hose is not typically something that people do in a public setting, especially without proper safety measures in place. It could be considered a form of harassment or assault, and it is not a common or acceptable activity in most social situations. Additionally, the fact that the man is spraying water on the ground without any apparent reason or safety precautions also raises concerns.\nTherefore, based on the sentences provided, the video contains unusual activities that are not typical or safe."
+    },
+    "Funny Animal Fails - Just In Time For Election 2016 _ Fail Army29": {
+        "t": [
+            -1.0
+        ],
+        "duration": 6.25,
+        "path": "Funny Animal Fails - Just In Time For Election 2016 _ Fail Army29.mp4",
+        "failure": 0,
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video features a group of deer in a fenced area, with one of them looking directly at the camera. The deer then begins to speak to the camera, and the camera zooms in on the deer's face. The deer continues to speak to the camera, and the camera zooms out to show the entire group of deer. The deer then turns its head and looks away from the camera. The video captures the natural behavior of deer in a fenced area, with the deer interacting with the camera and each other. The close-up shots of the deer's face provide a unique perspective on the animals, and the zooming in and out of the camera adds to the immersive experience. Overall, the video is a fascinating glimpse into the lives of deer in a controlled environment.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains unusual activities. The deer speaking to the camera is not a typical behavior of deer in the wild, as they are not known to communicate with humans or other deer in this way. The close-up shots of the deer's face also provide a unique perspective on the animals, as deer are not typically filmed in such detail. Additionally, the zooming in and out of the camera adds to the immersive experience, creating a sense of intimacy with the deer. Overall, the video is unusual and provides a fascinating glimpse into the lives of deer in a controlled environment."
+    },
+    "FailArmy After Dark - Party On!  (Ep. 3)172": {
+        "t": [
+            1.422439
+        ],
+        "duration": 7.0,
+        "path": "FailArmy After Dark - Party On!  (Ep. 3)172.mp4",
+        "failure": 1,
+        "wentwrong_1": "The wave hit them straight on and the boat capsized.",
+        "goal_1": "The goal was to ride the wave.",
+        "wentwrong_2": "The waves takes him for a ride and washes his boat away as well.",
+        "goal_2": "A person tries to jump into a wave as it approaches.",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man riding a small yellow raft in the ocean, with a large wave crashing in the background. The man is seen paddling the raft and trying to stay upright as the waves become more intense. The video captures the thrill and excitement of riding waves in the ocean.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains unusual activities.\nThe activity of riding a small yellow raft in the ocean is not typical of most water sports, as it is not a common or safe activity for recreational purposes. Rafting in the ocean can be dangerous due to the unpredictable and powerful waves, strong currents, and other hazards. The man in the video is taking a risk by engaging in this activity, which makes it unusual."
+    },
+    "Throwback Fails - Jump Around! (March 2018) _ FailArmy38": {
+        "t": [
+            3.787579
+        ],
+        "duration": 7.625,
+        "path": "Throwback Fails - Jump Around! (March 2018) _ FailArmy38.mp4",
+        "failure": 1,
+        "wentwrong_1": "The child ends up going through some leaves on a tree.",
+        "goal_1": "A child wants to take a ride on a man's shoulders.",
+        "wentwrong_2": "The child hit some tree branches with his face",
+        "goal_2": "A dad is playing with a child sitting on his shoulders",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man holding a baby in a park. The man is wearing a black hat and glasses, and he is seen holding the baby in different positions. The baby is also seen holding a tree branch and a black hat. The man is seen smiling and talking to the camera while holding the baby.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains unusual activities.\nThe unusual activity in the video is the baby holding a tree branch and a black hat. Babies do not typically hold objects or accessories like adults do, so this is an unusual sight. Additionally, the baby is seen holding the same items as the man, which suggests a level of coordination and intentionality that is not typical of a baby's behavior.\nThe video also shows the man holding the baby in different positions, which is not an unusual activity in itself, but the fact that the baby is also holding objects and smiling at the camera adds a level of unpredictability and curiosity to the scene."
+    },
+    "FailArmy's Got Talent (October 2017) _ FailArmy12": {
+        "t": [
+            4.36713
+        ],
+        "duration": 8.625,
+        "path": "FailArmy's Got Talent (October 2017) _ FailArmy12.mp4",
+        "failure": 1,
+        "wentwrong_1": "Did a spin and fell off.",
+        "goal_1": "Dancing on a barrel.",
+        "wentwrong_2": "He loses balance and falls off of the barrel",
+        "goal_2": "A man is dancing on a plastic barrel",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man performing a handstand on a barrel in a large field. He then flips off the barrel and lands on his back. The man is seen in various positions throughout the video, including standing on a barrel, sitting on a barrel, and standing on a blue barrel. The video also shows a man in a blue shirt standing on a barrel and a man in a white shirt standing on a barrel.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains unusual activities.\nThe handstand on a barrel is an unusual activity in itself, as it requires a great deal of strength, balance, and flexibility. The fact that the man flips off the barrel and lands on his back adds an extra level of difficulty and risk to the activity.\nAdditionally, the fact that there are multiple people standing on barrels in the video, including those in different colors, adds to the unusual nature of the activities shown. It is not every day that you see people performing acrobatic feats on top of large, rolling barrels in a field!"
+    },
+    "Fails of the Month (December 2016) _ FailArmy38": {
+        "t": [
+            -1.0
+        ],
+        "duration": 6.125,
+        "path": "Fails of the Month (December 2016) _ FailArmy38.mp4",
+        "failure": 0,
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video starts with a person riding a bike down a dirt road, and then it shows several people riding bikes down a dirt trail. The camera captures the riders from different angles, and the video ends with a person riding a bike down a dirt road.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains unusual activities.\nThe video features people riding bikes down a dirt road and trail, which is not an usual or mundane activity. It is an adventurous and outdoor activity that is not commonly seen in everyday life. The fact that the camera captures the riders from different angles and ends with a person riding a bike down a dirt road adds to the excitement and unpredictability of the video, making it unusual."
+    },
+    "The Summer of Fails - Fails of the Week (July 2018) _ FailArmy38": {
+        "t": [
+            -1.0
+        ],
+        "duration": 54.0,
+        "path": "The Summer of Fails - Fails of the Week (July 2018) _ FailArmy38.mp4",
+        "failure": 0,
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows two men sitting in a car, with one of them driving and the other one singing along to the music. They are both wearing seat belts and the car is moving on a highway. The driver is wearing a black t-shirt and the other man is wearing a green t-shirt. The driver is also wearing a seat belt. The car is moving at a moderate speed, and the highway is surrounded by trees and buildings. The driver is using the steering wheel to control the car, and the other man is singing along to the music. The car is moving smoothly on the highway, and the driver is maintaining a safe speed. The video captures the fun and excitement of the two men as they enjoy their ride together.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains unusual activities.\nThe unusual activity in the video is the fact that one of the men is singing along to the music while the other one is driving. It is not common or safe for someone to be singing while driving, as it can distract the driver and increase the risk of an accident. Additionally, it is important for drivers to keep their full attention on the road and traffic at all times, rather than engaging in other activities that could take their focus away from driving."
+    },
+    "Best Fails of the Week 3 February 2016 _ 'I'm OK, Wheres my Jetski!'FailArmy38": {
+        "t": [
+            6.359369
+        ],
+        "duration": 10.875,
+        "path": "Best Fails of the Week 3 February 2016 _ 'I'm OK, Wheres my Jetski!'FailArmy38.mp4",
+        "failure": 1,
+        "wentwrong_1": "It falls on top of the man",
+        "goal_1": "Trying too put the satellite on the truck",
+        "wentwrong_2": "the object end ups falling to the ground.",
+        "goal_2": "someone is trying to push the top of some sort of very large object",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man walking down the street while a large fan is spinning in the background. The man then runs into the street and is hit by the fan.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains an unusual activity.\nThe activity of a man running into the street and being hit by a large fan is not something that typically happens in everyday life. It is an unexpected and potentially dangerous situation, which makes it unusual. The video may be depicting a staged or fictional scenario, or it could be showing a real-life accident or incident. Either way, the unusual nature of the activity makes it stand out and warrants further attention."
+    },
+    "Fails of the Month - Failure In Full Force (January 2017) _ FailArmy39": {
+        "t": [
+            3.262535
+        ],
+        "duration": 3.75,
+        "path": "Fails of the Month - Failure In Full Force (January 2017) _ FailArmy39.mp4",
+        "failure": 1,
+        "wentwrong_1": "The cat falls off the box.",
+        "goal_1": "A cat is on a box of papers.",
+        "wentwrong_2": "The cat falls off the table.",
+        "goal_2": "A cat tries to tilt sideways to see something.",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a cat sitting on a bed next to a book. The cat then jumps onto the book and starts walking on it. The cat continues to walk on the book while looking around.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains unusual activities.\nThe activity of a cat walking on a book is not something that occurs naturally in the real world, and it is therefore unusual. While cats are capable of walking on various surfaces, including furniture, they do not typically walk on books. This makes the activity in the video stand out and unusual."
+    },
+    "It's All Down Hill From Here - Throwback Fails (August 2017)70": {
+        "t": [
+            8.69423
+        ],
+        "duration": 11.125,
+        "path": "It's All Down Hill From Here - Throwback Fails (August 2017)70.mp4",
+        "failure": 1,
+        "wentwrong_1": "The contraption fell apart on the ramp.",
+        "goal_1": "Some people were rolling a guy in a flaming contraption down a ramp.",
+        "wentwrong_2": "The sled tips over halfway down the hill and the person falls out",
+        "goal_2": "There is someone trying to ride a sled that's on fire down a snowy hill",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man in a black shirt and white shorts walking on a stage while a crowd watches. He then walks towards a man in a purple shirt and hugs him. The man in the black shirt then walks towards a man in a white shirt and hugs him. The man in the black shirt then walks towards a man in a red shirt and hugs him. The man in the black shirt then walks towards a man in a white shirt and hugs him. The man in the black shirt then walks towards a man in a yellow shirt and hugs him. The man in the black shirt then walks towards a man in a blue shirt and hugs him. The man in the black shirt then walks towards a man in a white shirt and hugs him. The man in the black shirt then walks towards a man in a red shirt and hugs him. The man in the black shirt then walks towards a man in a yellow shirt and hugs him. The man in the black shirt then walks towards a man in a blue shirt and hugs him. The man in the black shirt then walks towards a man in a white shirt and hugs him. The man in the black shirt then walks towards a man in a red shirt and hugs him. The man in the black shirt then walks towards a man in a yellow shirt and hugs him. The man in the black shirt then walks towards a man in a blue shirt and hugs him. The man in the black shirt then walks towards a man in a white shirt and hugs him. The man in the black shirt then walks towards a man in a red shirt and hugs him. The man in the black shirt then walks towards a man in a yellow shirt and hugs him. The man in the black shirt then walks towards a man in a blue shirt and hugs him. The man in the black shirt then walks towards a man in a white shirt and hugs him. The man in the black shirt then walks towards a man in a red shirt and hugs him. The man in the black shirt then walks towards a man in a yellow shirt and hugs him. The man in the black shirt then walks towards a man in a blue shirt and hugs him. The man in the black shirt then walks towards a man in a white shirt and hugs him. The man in the black shirt then walks towards a man in a red shirt and hugs him. The man in the black shirt then walks towards a man in a yellow shirt and hugs him. The man in the black shirt then walks towards a man in a blue shirt and hugs him. The man in the black shirt then walks towards a man in a white shirt and hugs him. The man in the black shirt then walks towards a man in a red shirt and hugs him. The man in the black shirt then walks towards a man in a yellow shirt and hugs him. The man in the black shirt then walks towards a man in a blue shirt and hugs him. The man in the black shirt then walks towards a man in a white shirt and hugs him. The man in the black shirt then walks towards a man in a red shirt and hugs him. The man in the black shirt then walks towards a man in a yellow shirt and hugs him. The man in the black shirt then walks towards a man in a blue shirt and hugs him. The man in the black shirt then walks towards a man in a white shirt and hugs him. The man in the black shirt then walks towards a man in a red shirt and hugs him. The man in the black shirt then walks towards a man in a yellow shirt and hugs him. The man in the black shirt then walks towards a man in a blue shirt and hugs him. The man in the black shirt then walks towards a man in a white shirt and hugs him. The man in the black shirt then walks towards a man in a red shirt and hugs him. The man in the black shirt then walks towards a man in a yellow shirt and hugs him. The man in the black shirt then walks towards a man in a blue shirt and hugs him. The man in the black shirt then walks towards a man in a white shirt and hugs him. The man in the black shirt then walks towards a man in a red",
+        "videollava_gen3_llama2_generation": " Yes, the video contains unusual activities. The man in the black shirt is repeatedly walking towards different people on the stage and hugging them. This is not a typical activity in a video, as it is not clear why the man is hugging these people or what is happening in the context of the video. It is possible that the video is a performance or a staged event, but without more information, it is difficult to determine the exact nature of the video."
+    },
+    "Throwback Fails - Jump Around! (March 2018) _ FailArmy36": {
+        "t": [
+            3.398191
+        ],
+        "duration": 4.625,
+        "path": "Throwback Fails - Jump Around! (March 2018) _ FailArmy36.mp4",
+        "failure": 1,
+        "wentwrong_1": "child gets hit in the face with it",
+        "goal_1": "man shoots child with nerf gun",
+        "wentwrong_2": "The bullet went in the childs eye.",
+        "goal_2": "Play toy guns with a kid.",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a young boy playing with a toy gun in a living room. He then goes outside and shoots a BB gun at a fish in a pond. The boy is seen laughing and enjoying himself while playing with the gun.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains an unusual activity.\nThe activity of shooting a BB gun at a living being (in this case, a fish) is not typical or common and could be considered harmful or violent. It is important to note that shooting any type of weapon, including a BB gun, at living beings can cause harm and is not a responsible or ethical behavior. It is crucial to handle firearms and weapons safely and responsibly, and to always follow proper safety guidelines and regulations.\nTherefore, the video shows an unusual activity that may not be suitable or appropriate for all audiences, especially children, and could potentially be harmful to the fish or other living beings."
+    },
+    "Best Fails of the Week - The Eagles Are Champs!! (February 2018) _ FailArmy14": {
+        "t": [
+            3.524448
+        ],
+        "duration": 24.0,
+        "path": "Best Fails of the Week - The Eagles Are Champs!! (February 2018) _ FailArmy14.mp4",
+        "failure": 1,
+        "wentwrong_1": "They missed the sled and slid down on their belly.",
+        "goal_1": "A child tried to slide on a sled down a snow mountain.",
+        "wentwrong_2": "The boy fell and rolled down the hill.",
+        "goal_2": "A boy was trying to sled down a mountain of snow.",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man in a green jacket and black pants walking in the snow. He is holding an orange surfboard and is seen walking towards a pile of wood. The man then picks up an ax and starts chopping the wood. He continues chopping the wood while the camera captures his movements. The man seems to be enjoying the activity as he smiles while chopping the wood. The video captures the serene and peaceful atmosphere of the snowy landscape, with the sound of the ax hitting the wood and the crunching of the snow underfoot. The man's movements are deliberate and precise, indicating that he is experienced in this activity. Overall, the video showcases the man's skill in chopping wood in the snowy environment, and the peacefulness of the surroundings.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains unusual activities.\nThe man in the video is holding an orange surfboard in the snow, which is an unusual item to be used in a snowy environment. Additionally, chopping wood in the snow is not a common activity, as it is typically associated with warmer climates. The fact that the man is smiling and seems to be enjoying the activity while surrounded by snow also adds to the unusualness of the scene. Overall, the video features unique and unexpected elements that make it stand out from a typical snowy landscape video."
+    },
+    "Best Fails of the Week - The Eagles Are Champs!! (February 2018) _ FailArmy18": {
+        "t": [
+            4.195557
+        ],
+        "duration": 7.375,
+        "path": "Best Fails of the Week - The Eagles Are Champs!! (February 2018) _ FailArmy18.mp4",
+        "failure": 1,
+        "wentwrong_1": "The guy falls over.",
+        "goal_1": "A guy is doing tricks with a hoop.",
+        "wentwrong_2": "The man accidentally fell.",
+        "goal_2": "To spin around on the big hoop.",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video features a man performing tricks with a hula hoop in a room. He starts by spinning the hoop around his waist and then moves on to spinning it around his neck. He then proceeds to spin the hoop around his entire body while maintaining his balance. The man's movements are fluid and graceful, and he appears to be enjoying himself as he performs these impressive tricks. The room in which he is performing is well-lit, and there are no other people or objects visible in the frame. Overall, the video showcases the man's impressive hula hoop skills and his ability to perform complex tricks with the hoop.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains unusual activities.\nThe man in the video is performing tricks with a hula hoop that are not typically seen in everyday situations. Spinning a hula hoop around one's neck or entire body is not something that people do on a daily basis, and it requires a high level of skill and coordination to perform. The man's movements are fluid and graceful, indicating that he has a great deal of experience and control over the hula hoop. The fact that he is performing these tricks in a well-lit room with no other people or objects visible in the frame also adds to the unusual nature of the video. Overall, the video showcases the man's impressive hula hoop skills and his ability to perform complex tricks with the hoop, which makes it stand out from more mundane activities."
+    },
+    "FailFactory - No Pain, No Gain (Workout Fails)153": {
+        "t": [
+            5.730334
+        ],
+        "duration": 8.25,
+        "path": "FailFactory - No Pain, No Gain (Workout Fails)153.mp4",
+        "failure": 1,
+        "wentwrong_1": "Man did not give himself enough time to clap and fell back down.",
+        "goal_1": "To do a push up with a clap.",
+        "wentwrong_2": "He falls on his face.",
+        "goal_2": "A man is trying to do push ups.",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man attempting to perform a handstand on a chair, but he fails and falls to the ground.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains an unusual activity.\nThe activity of attempting a handstand on a chair is not something that is commonly seen in everyday life, and it requires a certain level of skill and balance to perform successfully. The fact that the man in the video fails and falls to the ground suggests that this activity is not something that he is familiar with or comfortable with, making it unusual."
+    },
+    "Get Out Of The Way!! - FailArmy After Dark (Ep. 12)13": {
+        "t": [
+            0.0
+        ],
+        "duration": 7.625,
+        "path": "Get Out Of The Way!! - FailArmy After Dark (Ep. 12)13.mp4",
+        "failure": 1,
+        "wentwrong_1": "A person hit a water tank that began spraying water everywhere.",
+        "goal_1": "Don't know",
+        "wentwrong_2": "A canister spinds around and trips him.",
+        "goal_2": "A man tries dancing atop a table.",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a group of people standing around a wooden stump, with smoke coming out of it. The smoke is so thick that it is almost impossible to see anything. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like a fog. The people are standing around the stump, and they seem to be enjoying the smoke. The smoke is so thick that it is almost like",
+        "videollava_gen3_llama2_generation": " Yes, the video contains unusual activities. The people are standing around a wooden stump and enjoying the smoke coming out of it, which is thick and almost like a fog. This is not a typical activity as it is not common for people to gather and enjoy smoke in such a thick and dense manner. It is possible that they are participating in some sort of ritual or ceremony, or perhaps they are in a location where the smoke is a natural occurrence, such as a forest or a mountainous area. Without more information or context, it is difficult to determine the exact reason for the people's behavior."
+    },
+    "Classic Redneck Waterslide - Throwback Fails (July 2017)11": {
+        "t": [
+            7.109184
+        ],
+        "duration": 10.25,
+        "path": "Classic Redneck Waterslide - Throwback Fails (July 2017)11.mp4",
+        "failure": 1,
+        "wentwrong_1": "Pushed friend through the door onto the ground",
+        "goal_1": "Don't know",
+        "wentwrong_2": "The door opens and they both fall over.",
+        "goal_2": "A girl is shoving a girl.",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows two girls in a room, where one of them is dancing while the other is watching. The dancing girl then starts to dance with a third girl who enters the room. The two girls continue to dance while the third girl watches.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains unusual activities.\nThe activity of dancing in the video is not unusual in itself, but the fact that there are three girls involved in the dance is unusual. The video shows two girls dancing together, and then a third girl enters the room and joins them in the dance, which is not a common occurrence. The video portrays a unique and unexpected scenario, which makes it unusual."
+    },
+    "Best Fails of the Year 2017 - Part 1 (December 2017) _ FailArmy25": {
+        "t": [
+            8.220628
+        ],
+        "duration": 17.875,
+        "path": "Best Fails of the Year 2017 - Part 1 (December 2017) _ FailArmy25.mp4",
+        "failure": 1,
+        "wentwrong_1": "The woman's hair catches fire.",
+        "goal_1": "The woman wants to provide a hair tutorial.",
+        "wentwrong_2": "Her hair caught fire while she was filming.",
+        "goal_2": "To video herself straightening her hair.",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video features a woman who is seen brushing her hair while talking to the camera. She then proceeds to brush her teeth and continues to talk to the camera. The woman is seen in different positions throughout the video, including sitting on the floor and standing in front of a mirror.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains unusual activities.\nThe activity of brushing teeth while talking to the camera is not something that is commonly seen in videos. It is a mundane task that is usually done in private, and it is unusual to see it being performed in a public setting like a video. Additionally, the fact that the woman is seen in different positions throughout the video, including sitting on the floor and standing in front of a mirror, also adds to the unusual nature of the video. These activities are not typically associated with a typical video production, and they make the video stand out as unusual."
+    },
+    "The Wheels Are Coming Off! - Throwback Fails (December 2017) _ FailArmy35": {
+        "t": [
+            -1.0
+        ],
+        "duration": 4.375,
+        "path": "The Wheels Are Coming Off! - Throwback Fails (December 2017) _ FailArmy35.mp4",
+        "failure": 0,
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man holding a baseball bat and swinging it around. He then hits a ball and walks away.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains an unusual activity.\nThe activity of holding a baseball bat and swinging it around is not unusual in itself, as it is a common activity in many sports and games. However, the fact that the man in the video hits a ball with the bat and then walks away without any further action or consequence suggests that the video may be depicting a violent or dangerous activity, such as a fight or an assault. This could be considered unusual because it is not a typical or expected activity in a baseball game or any other sport."
+    },
+    "It's All Down Hill From Here - Throwback Fails (August 2017)92": {
+        "t": [
+            2.785702
+        ],
+        "duration": 6.75,
+        "path": "It's All Down Hill From Here - Throwback Fails (August 2017)92.mp4",
+        "failure": 1,
+        "wentwrong_1": "the guy falls forward and hits his ribs on the bar",
+        "goal_1": "to do a handstand on the parallel bars",
+        "wentwrong_2": "Messes up and falls on face",
+        "goal_2": "Perform a balancing exercise",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man performing a gymnastics routine on a bar. He starts by swinging on the bar and then does a handstand. He then swings on the bar again and does a flip. The man continues to swing on the bar and does a few more flips. Finally, he jumps off the bar and lands on the ground.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains unusual activities.\nThe man's gymnastics routine on the bar is unusual because it involves performing flips and handstands, which are advanced skills that require a high level of strength, flexibility, and coordination. These types of activities are not typically seen in everyday life, and they are considered unusual or exceptional.\nAdditionally, the fact that the man is swinging on a bar and performing flips in mid-air makes the activity even more unusual and impressive. These types of activities are often seen in professional gymnastics competitions or circus performances, but they are not something that most people encounter in their daily lives.\nOverall, the video contains unusual activities that are impressive and noteworthy, which is why I would answer \"Yes\" to the question."
+    },
+    "FailFactory - No Pain, No Gain (Workout Fails)20": {
+        "t": [
+            3.392273
+        ],
+        "duration": 8.375,
+        "path": "FailFactory - No Pain, No Gain (Workout Fails)20.mp4",
+        "failure": 1,
+        "wentwrong_1": "doesnt do it right, and wipes out",
+        "goal_1": "a guy is doing jump rope and tries to do a backflip",
+        "wentwrong_2": "He fell trying to backflip.",
+        "goal_2": "The goal was to backflip.",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man performing various exercises in a gym. He starts by doing pull-ups on a bar, then moves on to sit-ups on the floor. He then stands up and does more pull-ups on the bar. Finally, he jumps onto a set of bars and swings back and forth.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains unusual activities.\nThe man in the video is performing various exercises that are not typical in a typical gym setting. Pull-ups on a bar and sit-ups on the floor are common exercises, but the addition of jumping onto a set of bars and swinging back and forth is not something you would typically see in a gym. This activity is more commonly associated with circus training or acrobatics, and is therefore unusual in a gym setting."
+    },
+    "The Ultimate Funny Monkey Compilation _ Monkey Fails by FailArmy49": {
+        "t": [
+            -1.0
+        ],
+        "duration": 8.25,
+        "path": "The Ultimate Funny Monkey Compilation _ Monkey Fails by FailArmy49.mp4",
+        "failure": 0,
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a tree with no leaves, and a bird is perched on it. The bird is seen walking along the branches and then flies away.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains an unusual activity.\nThe unusual activity in the video is the bird walking on the branches of the tree without any leaves. Birds typically do not walk on branches, as they have a different type of skeletal system and muscles than mammals, which allows them to perch and move around in a more graceful and agile manner. The fact that the bird is seen walking on the branches suggests that it may be a different species or a unique individual with a different ability."
+    },
+    "The Ultimate Funny Monkey Compilation _ Monkey Fails by FailArmy4": {
+        "t": [
+            0.567928
+        ],
+        "duration": 4.5,
+        "path": "The Ultimate Funny Monkey Compilation _ Monkey Fails by FailArmy4.mp4",
+        "failure": 1,
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a monkey walking on a wooden deck and then jumping down onto the ground.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains an unusual activity. The monkey walking on a wooden deck and jumping down onto the ground is not a common activity for a monkey, as they typically move around in trees or on the ground. This activity is unusual and stands out from the normal behavior of monkeys in their natural habitat."
+    },
+    "Grandmas vs Grandpas - FailArmy Versus (December 2017) _ FailArmy0": {
+        "t": [
+            5.370338
+        ],
+        "duration": 6.875,
+        "path": "Grandmas vs Grandpas - FailArmy Versus (December 2017) _ FailArmy0.mp4",
+        "failure": 1,
+        "wentwrong_1": "She lost her balance and fell.",
+        "goal_1": "The gran wanted to play hop scotch with the child.",
+        "wentwrong_2": "Grandma ended up falling over onto the concrete",
+        "goal_2": "Grandma was playing hopscotch",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a woman and a little girl standing outside on a sidewalk. The woman is wearing a white shirt and blue jeans, while the little girl is wearing a red and black checkered shirt and blue jeans. The woman is holding the little girl's hand and they are both looking at the camera. The little girl then starts to dance and does a split on the sidewalk. The woman then does a split on the sidewalk as well. The video ends with the woman and the little girl walking away from the camera.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains unusual activities.\nThe activity of the little girl doing a split on the sidewalk is unusual because it is a challenging and acrobatic move that requires strength, flexibility, and coordination. It is not a common activity for a young child to perform, especially in a public setting like a sidewalk.\nAdditionally, the fact that the woman in the video follows the little girl's example and also does a split on the sidewalk is also unusual, as it is not something that is typically seen in everyday life. It suggests that the video is showcasing a unique or staged scenario, rather than a typical day-to-day activity."
+    },
+    "FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy68": {
+        "t": [
+            3.252769
+        ],
+        "duration": 6.125,
+        "path": "FailArmy Playlist - Inflatables and Big Ballers (March 2019) _ FailArmy68.mp4",
+        "failure": 1,
+        "wentwrong_1": "She fell too fast and far, so when she landed and hit her face on the ground.",
+        "goal_1": "The girl tried to jump out of a high window.",
+        "wentwrong_2": "they go to the ground, and wipe out bad",
+        "goal_2": "a boy tries to jump out of a window",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man performing a backflip off the roof of a garage. He lands on his back on the ground, and the video ends with him getting up.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains an unusual activity. The activity of performing a backflip off the roof of a garage is not a common or everyday activity, and it could be considered dangerous or risky. It is not something that people typically do on a daily basis, and it may require special training or expertise to perform safely. Therefore, the video contains an unusual activity."
+    },
+    "Best Fails of the Week 3 May 2016 _ FailArmy15": {
+        "t": [
+            1.554927
+        ],
+        "duration": 3.5,
+        "path": "Best Fails of the Week 3 May 2016 _ FailArmy15.mp4",
+        "failure": 1,
+        "wentwrong_1": "a toy car hit a guy in his head",
+        "goal_1": "Don't know",
+        "wentwrong_2": "She hit a person with the car",
+        "goal_2": "She was driving a rc vehicle",
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man wearing a blue shirt and black shorts skateboarding in a park. He is seen riding his skateboard on a ramp and performing tricks. The man is also seen riding his skateboard on a sidewalk and a street.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains unusual activities.\nThe video shows the man performing tricks on his skateboard, such as jumping and flipping, which are not typical activities that people do in a park or on a sidewalk/street. These types of activities are typically associated with skateparks or other designated areas for skateboarding, and are considered unusual in a public park or on a street. Additionally, the man is seen riding his skateboard on a ramp, which is also an unusual activity in a public park or on a street. Overall, the video contains activities that are not typical or common in most public spaces, making them unusual."
+    },
+    "Throwback Fails - Everybody Sing!! (February 2018) _ FailArmy1": {
+        "t": [
+            -1.0
+        ],
+        "duration": 6.625,
+        "path": "Throwback Fails - Everybody Sing!! (February 2018) _ FailArmy1.mp4",
+        "failure": 0,
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a man standing on a boat, looking at the camera. He then points to the water and waves his hand. The camera then shows a person in the water, and the man on the boat laughs. The video ends with the man on the boat laughing again.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains an unusual activity.\nThe unusual activity in the video is the person in the water. The man on the boat is waving his hand and laughing, suggesting that he is pointing to something in the water. However, the camera does not show what the man is pointing at, and the person in the water is not visible until the very end of the video, when the man on the boat is laughing again. This suggests that there is something unexpected or unusual happening in the water that the man on the boat is reacting to."
+    },
+    "Fails of the Week (March 2017) _ FailArmy39": {
+        "t": [
+            -1.0
+        ],
+        "duration": 5.5,
+        "path": "Fails of the Week (March 2017) _ FailArmy39.mp4",
+        "failure": 0,
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video shows a woman standing next to a car, and a man is seen riding a motorcycle. The woman then gets on the motorcycle and rides it. The video also shows the woman standing in a kitchen and standing in front of a house.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains unusual activities.\nThe video shows a woman standing next to a car and then getting on a motorcycle and riding it, which is an unusual activity as it is not common for a woman to ride a motorcycle, especially without proper training or experience. Additionally, the video shows the woman standing in a kitchen and standing in front of a house, which are not typically considered action-packed or exciting activities. The video's focus on these mundane activities suggests that it may be a documentary or a real-life scenario, rather than an action-packed thriller."
+    },
+    "Get Out Of The Way!! - FailArmy After Dark (Ep. 12)73": {
+        "t": [
+            -1.0
+        ],
+        "duration": 3.875,
+        "path": "Get Out Of The Way!! - FailArmy After Dark (Ep. 12)73.mp4",
+        "failure": 0,
+        "videollava_prompt_3": "Narrate the video",
+        "videollava_generation_3": "The video starts with a close-up shot of a bicycle, and then it transitions to a person walking into a bathroom. The camera then shows a black cat sitting on the floor, and the person walks into the bathroom. The bathroom is well-lit, and the person is wearing a white shirt. The camera then shows the person washing their hands in the sink, and the cat is still sitting on the floor. The person then walks out of the bathroom, and the camera shows the cat still sitting on the floor. The video ends with the cat still sitting on the floor.</s>",
+        "videollava_gen3_llama2_generation": " Yes, the video contains unusual activities.\nThe unusual activities in the video are:\n1. A person walking into a bathroom and the camera showing a black cat sitting on the floor without any explanation or context. This is unusual because it is not common to see a cat in a bathroom, especially without any indication of why it is there.\n2. The person washing their hands in the sink while the cat is still sitting on the floor. This is unusual because it is not common to see a cat observing someone washing their hands, especially in a bathroom.\n3. The video ending with the cat still sitting on the floor without any resolution or explanation. This is unusual because it leaves the viewer with a sense of uncertainty and confusion, as there is no clear ending or resolution to the video.\nOverall, the video contains unusual activities that are not common or expected in everyday life, which makes it stand out and interesting to observe."
+    }
+}
